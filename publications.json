@@ -1,0 +1,32 @@
+{
+  "journal_articles": [
+    {
+      "title": "Continuous and synoptic assessment of Indian inland waters for harmful algae blooms.",
+      "authors": "Maniyar, Chintan B., Abhishek Kumar, and Deepak R. Mishra",
+      "venue": "Harmful Algae",
+      "ink": "https://doi.org/10.1016/j.hal.2021.102160",
+      "thumbnail": "https://ars.els-cdn.com/content/image/1-s2.0-S1568988320X00059-cov150h.gif"
+    },
+    {},
+  ],
+  "conference_proceedings": [
+    {
+      "title": "CyanoSense: a wireless remote sensor system using raspberry-pi and arduino with application to algal bloom.",
+      "authors": "Boddula, Vinay, Lakshmish Ramaswamy, and Deepak Mishra",
+      "venue": "2017 IEEE International Conference on AI & Mobile Services (AIMS). IEEE",
+      "link": "https://doi.org/10.1109/AIMS.2017.19",
+      "thumbnail": "https://media.springernature.com/full/springer-static/cover-hires/book/978-3-319-94361-9"
+    },
+    {},
+  ],
+  "conference_presentations": [
+    {
+      "title": "Proximal and Satellite-based Remote Sensing of US Waters for Cyanobacterial Harmful Algal Blooms: Detection, Monitoring and Early Warning",
+      "authors": "Chintan B. Maniyar and Deepak R. Mishra",
+      "venue": "UGA Climate and Water Research Slam, GA, USA. April 2024",
+      "link": "UGA Climate and Water Research Slam, GA, USA. April 2024",
+      "thumbnail": "https://i.pinimg.com/originals/4b/1a/0a/4b1a0a93f9d0ac0a3e2b43469194dbc1.jpg"
+    },
+    {},
+  ]
+}
