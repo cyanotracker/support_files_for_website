@@ -115,9 +115,18 @@
       "image":"iee_2015.jpg"
     },
     {
+      "title": "Improving Phycocyanin Estimation for Cyanobacterial Harmful Algal Blooms from Remote Sensing Reflectance using Optical Inversion and Ensemble Machine Learning",
+      "authors": "Chintan B. Maniyar, Deepak R. Mishra, Gengchen Mai, Abhishek Kumar, Nima Pahlevan",
+      "journal": "NASA BDEC Annual Meeting, MD, USA. May 2024",
+      "year": "2024",
+      "type":"conference-presentations",
+      "link": "https://docs.google.com/presentation/d/e/2PACX-1vQsSimiCSqeqDr1BHEntML2I85Zr9bNJaA8OGvDrpvNDcEOpR8-xEvNIt4lyublFw/pub?start=false&loop=false&delayms=3000",
+      "image":"https://seas.umich.edu/sites/default/files/styles/news/public/2021-06/Western%20Lake%20Erie%20and%20an%20algae%20bloom%20as%20seen%20from%20a%20Landsat-8%20satellite.jpg"
+    },
+    {
       "title": "Cyanosense 2.0: Low-Cost Wireless Proximal Sensing Infrastructure for Remote Monitoring of CyanoHABs",
       "authors": "Keshav Raviprakash, Chintan B. Maniyar, Deepak R. Mishra",
-      "journal": "UGA Water Science and Policy Symposium, GA, USA. October 2024",
+      "journal": "UGA Water Science and Policy Symposium, GA, USA. October 2023",
       "year": "2023",
       "type":"conference-presentations",
       "link": "https://docs.google.com/presentation/d/e/2PACX-1vQ7LYzqtoA65Rp1M516fLmyI8xQlR8ftpOZuWrp7uqPEwtB9Ie4fMWnnkHTWbeRHw/pub?start=false&loop=true&delayms=3000&slide=id.p1",
@@ -155,21 +164,21 @@
     {
        "title": "Frequent Synoptic Monitoring of Cyanobacterial Harmful Algal Blooms for Potential Prevention of Disease Outbreak",
        "authors": "Chintan B. Maniyar, Abhishek Kumar, Deepak R. Mishra",
-       "journal": "CDCâ€™s Place And Health Conference, November 2021",
+       "journal": "CDC's Place And Health Conference, November 2021",
        "link":"https://www.essoar.org/pdfjs/10.1002/essoar.10509678.1",
        "image":"https://www.dlr.de/en/images/2020/3/copernicus-sentinel-3-in-space-artists-impression/@@images/image-1920-72abb314657721abab4d05ed65ed82ef.jpeg",
        "type":"conference-presentations",
        "year":"2021"
   },
-{
-  "type":"conference-presentations",
-  "title": "Web-based Interactive Approach for Continuous Monitoring of Indian Inland and Estuarine Waters for Harmful Algal Blooms",
-  "authors": "Chintan B. Maniyar, Abhishek Kumar, Deepak R. Mishra",
-  "journal": "National Symposium Environment Monitoring and Climate Change Assessment, India, December 2020",
-  "link": "https://docs.google.com/presentation/d/e/2PACX-1vRzNRdN3CaPqQWcqUMCaXBnOFrNhtOLpzJ7pbtXakcQAqR-ERdyg2l2GYhi8J8bpw/pub?start=false&loop=false&delayms=10000",
-  "image":"https://ars.els-cdn.com/content/image/1-s2.0-S1568988321001906-gr5.jpg",
-  "year":"2020"  
-}, 
+  {
+    "type":"conference-presentations",
+    "title": "Web-based Interactive Approach for Continuous Monitoring of Indian Inland and Estuarine Waters for Harmful Algal Blooms",
+    "authors": "Chintan B. Maniyar, Abhishek Kumar, Deepak R. Mishra",
+    "journal": "National Symposium Environment Monitoring and Climate Change Assessment, India, December 2020",
+    "link": "https://docs.google.com/presentation/d/e/2PACX-1vRzNRdN3CaPqQWcqUMCaXBnOFrNhtOLpzJ7pbtXakcQAqR-ERdyg2l2GYhi8J8bpw/pub?start=false&loop=false&delayms=10000",
+    "image":"https://ars.els-cdn.com/content/image/1-s2.0-S1568988321001906-gr5.jpg",
+    "year":"2020"  
+  }, 
 {   
   "type":"media-highlights",
   "caption":"Toxic Algae Detection",
