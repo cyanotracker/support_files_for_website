@@ -116,6 +116,15 @@
     },
     {
       "title": "Improving Phycocyanin Estimation for Cyanobacterial Harmful Algal Blooms from Remote Sensing Reflectance using Optical Inversion and Ensemble Machine Learning",
+      "authors": "Chintan B. Maniyar, Deepak R. Mishra, Gengchen Mai",
+      "journal": "IEEE IGARSS, Athens, Greece. July 2024",
+      "year": "2024",
+      "type":"conference-presentations",
+      "link": "https://docs.google.com/presentation/d/e/2PACX-1vQbx9_GFGdD4ru6J-sJiero8AzJZvigriH-GpFl6xFbJyv8q-TWEtExB9fD4OEwQQ/pub?start=false&loop=false&delayms=3000",
+      "image":"https://pbs.twimg.com/media/Fe0DWVXUAAAieFG.jpg"
+    },
+    {
+      "title": "Enhancing CyanoHAB Monitoring Across Multi-Satellite Sensors: Combining Empirical Phycocyanin Algorithms using Machine Learning",
       "authors": "Chintan B. Maniyar, Deepak R. Mishra, Gengchen Mai, Abhishek Kumar, Nima Pahlevan",
       "journal": "NASA BDEC Annual Meeting, MD, USA. May 2024",
       "year": "2024",
