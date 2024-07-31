@@ -1,21 +1,61 @@
+
 [
-    {
-        "role": "project-pi",
-        "name": "Dr. Deepak R. Mishra",
-        "imgUrl": "https://raw.githubusercontent.com/cyanotracker/cyanotracker.github.io/main/src/assets/Deepak_Mishra.jpg",
-        "linkedinUrl": "https://geography.uga.edu/directory/people/deepak-r-mishra",
-        "description": "Dr. Deepak Mishra is a professor and the Associate Head of Geography at UGA..."
-    },
-    {
-        "role": "current",
+  {
+    "role": "Project PI",
+    "name": "Dr. Deepak R. Mishra",
+    "imgUrl": "https://raw.githubusercontent.com/cyanotracker/cyanotracker.github.io/main/src/assets/Deepak_Mishra.jpg",
+    "linkedinUrl": "https://geography.uga.edu/directory/people/deepak-r-mishra",
+    "description": "Dr. Deepak Mishra is a professor and the Associate Head of Geography at UGA..."
+  },
+  {
+    "role": "Current Team Members",
+    "members": [
+      {
         "name": "Abhishek Kumar",
-        "imgUrl": "https://github.com/cyanotracker/cyanotracker.github.io/blob/main/src/assets/Abhishek_Kumar.png",
+        "imgUrl": "https://raw.githubusercontent.com/cyanotracker/cyanotracker.github.io/main/src/assets/Abhishek_Kumar.png",
         "linkedinUrl": "https://www.linkedin.com/in/abhishek-kumar-49348b143/",
         "description": "Postdoctoral Associate"
-    },
-    {
-        "role": "past",
-        "name": "Dr. Lakshmish Ramaswamy"
-    }
-   
+      },
+      {
+        "name": "Chintan B. Maniyar",
+        "imgUrl": "https://example.com/images/Chintan.jpg",
+        "linkedinUrl": "https://chintan2108.github.io/",
+        "description": "PhD Student"
+      },
+      {
+        "name": "Isabella Fiorentino",
+        "imgUrl": "https://example.com/images/Isabella.jpg",
+        "linkedinUrl": "https://www.linkedin.com/in/isabella-fiorentino-113049188/",
+        "description": "MS Student"
+      },
+      {
+        "name": "Keshav Raviprakash",
+        "imgUrl": "https://example.com/images/Keshav_new.jpeg",
+        "linkedinUrl": "https://www.linkedin.com/in/keshav-raviprakash/",
+        "description": "MS Student"
+      },
+      {
+        "name": "Abhishek Cherukuru",
+        "imgUrl": "https://example.com/images/Abhishek_C.jpg",
+        "linkedinUrl": "https://www.linkedin.com/in/abhishek-cherukuru/",
+        "description": "Web Developer"
+      },
+      {
+        "name": "Ranganadh Srivilli",
+        "imgUrl": "https://example.com/images/Ranganadh.jpg",
+        "linkedinUrl": "https://www.linkedin.com/in/ranganadhsrivilli/",
+        "description": "Web Developer"
+      }
+    ]
+  },
+  {
+    "role": "Past Team Members",
+    "members": [
+      "Dr. Lakshmish Ramaswamy",
+      "Dr. Michael Scott",
+      "Dr. Vinay Boddula",
+      "Samual Weber",
+      "Ben Page"
+    ]
+  }
 ]
