@@ -2,10 +2,15 @@
 [
   {
     "role": "Project PI",
+    "members":[
+      {
     "name": "Dr. Deepak R. Mishra",
     "imgUrl": "https://raw.githubusercontent.com/cyanotracker/cyanotracker.github.io/main/src/assets/Deepak_Mishra.jpg",
     "linkedinUrl": "https://geography.uga.edu/directory/people/deepak-r-mishra",
     "description": "Dr. Deepak Mishra is a professor and the Associate Head of Geography at UGA..."
+      }
+    ]
+    
   },
   {
     "role": "Current Team Members",
