@@ -5,7 +5,7 @@
     "name": "Dr. Deepak R. Mishra",
     "imgUrl": "https://raw.githubusercontent.com/cyanotracker/cyanotracker.github.io/main/src/assets/Deepak_Mishra.jpg",
     "linkedinUrl": "https://geography.uga.edu/directory/people/deepak-r-mishra",
-    "description": "Mishra is a professor and the Associate Head of Geography at UGA, leading the Small Satellite Research Lab. He's an expert in remote sensing, applying his knowledge to studying water resources, wetlands, and environmental issues. Combining field-based and satellite techniques with AI, Dr. Mishra is at the forefront of using innovative technologies to understand our planet."
+    "description": "Dr. Deepak Mishra is a professor and the Associate Head of Geography at UGA, leading the Small Satellite Research Lab. He's an expert in remote sensing, applying his knowledge to studying water resources, wetlands, and environmental issues. Combining field-based and satellite techniques with AI, Dr. Mishra is at the forefront of using innovative technologies to understand our planet."
   },
   {
     "role": "Current Team Members",
@@ -18,31 +18,25 @@
       },
       {
         "name": "Chintan B. Maniyar",
-        "imgUrl": "https://example.com/images/Chintan.jpg",
+        "imgUrl": "https://github.com/cyanotracker/cyanotracker.github.io/blob/main/src/assets/Chintan.jpg",
         "linkedinUrl": "https://chintan2108.github.io/",
         "description": "PhD Student"
       },
       {
         "name": "Isabella Fiorentino",
-        "imgUrl": "https://example.com/images/Isabella.jpg",
+        "imgUrl": "https://github.com/cyanotracker/cyanotracker.github.io/blob/main/src/assets/Isabella.jpg",
         "linkedinUrl": "https://www.linkedin.com/in/isabella-fiorentino-113049188/",
         "description": "MS Student"
       },
       {
         "name": "Keshav Raviprakash",
-        "imgUrl": "https://example.com/images/Keshav_new.jpeg",
+        "imgUrl": "https://github.com/cyanotracker/cyanotracker.github.io/blob/main/src/assets/Keshav.jpeg"
         "linkedinUrl": "https://www.linkedin.com/in/keshav-raviprakash/",
         "description": "MS Student"
       },
       {
-        "name": "Abhishek Cherukuru",
-        "imgUrl": "https://example.com/images/Abhishek_C.jpg",
-        "linkedinUrl": "https://www.linkedin.com/in/abhishek-cherukuru/",
-        "description": "Web Developer"
-      },
-      {
-        "name": "Ranganadh Srivilli",
-        "imgUrl": "https://example.com/images/Ranganadh.jpg",
+        "name": "Ranganadh SrivilliBhutturu",
+        "imgUrl": "https://github.com/cyanotracker/cyanotracker.github.io/blob/main/src/assets/Ranganadh.jpg",
         "linkedinUrl": "https://www.linkedin.com/in/ranganadhsrivilli/",
         "description": "Web Developer"
       }
@@ -55,7 +49,8 @@
       "Dr. Michael Scott",
       "Dr. Vinay Boddula",
       "Samual Weber",
-      "Ben Page"
+      "Ben Page",
+      "Abhishek Cherukuru"
     ]
   }
 ]
