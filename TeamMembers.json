@@ -1,0 +1,21 @@
+[
+    {
+        "role": "current",
+        "name": "Dr. Deepak R. Mishra",
+        "imgUrl": "https://github.com/cyanotracker/cyanotracker.github.io/blob/main/src/assets/Deepak_Mishra.jpg",
+        "linkedinUrl": "https://geography.uga.edu/directory/people/deepak-r-mishra",
+        "description": "Dr. Deepak Mishra is a professor and the Associate Head of Geography at UGA..."
+    },
+    {
+        "role": "current",
+        "name": "Abhishek Kumar",
+        "imgUrl": "https://github.com/cyanotracker/cyanotracker.github.io/blob/main/src/assets/Abhishek_Kumar.png",
+        "linkedinUrl": "https://www.linkedin.com/in/abhishek-kumar-49348b143/",
+        "description": "Postdoctoral Associate"
+    },
+    {
+        "role": "past",
+        "name": "Dr. Lakshmish Ramaswamy"
+    }
+   
+]
