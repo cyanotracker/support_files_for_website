@@ -1,1 +1,19 @@
 
+{
+  "newsfeed": [
+    {
+      "date": "July 7-12, 2024",
+      "content": "We will be presenting a paper: \"Enhancing CyanoHAB Monitoring Across Multi-Satellite Sensors: Combining Empirical Phycocyanin Algorithms using Machine Learning\"",
+      "link": "https://www.2024.ieeeigarss.org/",
+      "conference": "IEEE International Geoscience and Remote Sensing Symposium 2024",
+      "location": "Athens, Greece"
+    },
+    {
+      "date": "May 6-10, 2024",
+      "content": "We will be presenting a poster: \"Advancing Remote Sensing of CyanoHABs - Phycocyanin Estimation using Hyperspectral Inversion and Machine Learning\"",
+      "link": "https://cce.nasa.gov/biodiversity/meeting_2024/index.html",
+      "conference": "NASA's Biodiversity and Ecological Forecasting Annual Meeting 2024",
+      "location": "Silver Spring, MD"
+    }
+  ]
+}
