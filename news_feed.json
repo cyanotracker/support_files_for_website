@@ -2,34 +2,6 @@
 {
   "newsfeed": [
     {
-      "date": "August 25-29, 2024",
-      "content": "Field Sampling: CyanoTRACKER team, in collaboration with Florida Atlantic University, will be collecting water samples at Lake Okeechobee",
-      "link": "",
-      "conference": "",
-      "location": "Ft Pierce, Florida"
-    },
-    {
-      "date": "August 19-23, 2024",
-      "content": "Field Sampling: CyanoTRACKER team, in collaboration with Utah Department of Environment Quality, will be collecting water samples at Lake Utah",
-      "link": "",
-      "conference": "",
-      "location": "Provo, Utah"
-    },
-    {
-      "date": "August 11-16, 2024",
-      "content": "Field Sampling: CyanoTRACKER team, in collaboration with Cleveland State University, will be collecting water samples at Lake Erie",
-      "link": "",
-      "conference": "",
-      "location": "Put-in-Bay, Ohio"
-    },
-    {
-      "date": "July 19-26, 2024",
-      "content": "Field Sampling: CyanoTRACKER team, in collaboration with Cleveland State University, will be collecting water samples at Green Bay",
-      "link": "",
-      "conference": "",
-      "location": "Wisconsin"
-    },
-    {
       "date": "July 7-12, 2024",
       "content": "We will be presenting a paper: \"Enhancing CyanoHAB Monitoring Across Multi-Satellite Sensors: Combining Empirical Phycocyanin Algorithms using Machine Learning\"",
       "link": "https://www.2024.ieeeigarss.org/",
