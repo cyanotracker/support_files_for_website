@@ -1,5 +1,5 @@
 {
-  "gallery": [
+  "team_gallery": [
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/CSIRO_ScienceImage_4203_A_bluegreen_algae_species_Cylindrospermum_sp_under_magnification.jpg",
       "smallCaption": "Small Caption-1",
@@ -16,11 +16,31 @@
       "bigCaption":"Big Caption-3"
     },
     {
-           "image":"https://cyanotracker.uga.edu/static/media/cyanosense_20_housing_design.78cbeecc080750d01e9b.png",
+      "image":"https://cyanotracker.uga.edu/static/media/cyanosense_20_housing_design.78cbeecc080750d01e9b.png",
       "smallCaption":"Small Caption-4",
       "bigCaption":"Big Caption-4"
     }
-    
-    
+  ],
+  "cyano_gallery": [
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/CSIRO_ScienceImage_4203_A_bluegreen_algae_species_Cylindrospermum_sp_under_magnification.jpg",
+      "smallCaption": "Small Caption-1",
+      "bigCaption": "This is a big caption for the lightbox"
+    },
+    {
+      "image": "https://www.lakestewardsofmaine.org/wp-content/uploads/2022/04/Cyanobacteria-scaled.jpg",
+      "smallCaption": "Small Caption-2",
+      "bigCaption": "Another big caption for the lightbox"
+    },
+    {
+      "image":"https://cyanotracker.uga.edu/static/media/our_approach.d83bcb01ebdd5bf2c923.png",
+      "smallCaption":"Small Caption-3",
+      "bigCaption":"Big Caption-3"
+    },
+    {
+      "image":"https://cyanotracker.uga.edu/static/media/cyanosense_20_housing_design.78cbeecc080750d01e9b.png",
+      "smallCaption":"Small Caption-4",
+      "bigCaption":"Big Caption-4"
+    }
   ]
 }
