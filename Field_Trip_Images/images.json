@@ -1,14 +1,98 @@
 {
   "field_trip_gallery": [
     {
-      "image":"https://cyanotracker.uga.edu/static/media/our_approach.d83bcb01ebdd5bf2c923.png",
-      "smallCaption":"Small Caption-3",
-      "bigCaption":"Big Caption-3"
+      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/IMG_7376.jpg",
+      "smallCaption":"Field data collection in Lake Erie, Aug 2024",
+      "bigCaption":"L-R: Isabella Fiorentino and Chintan Maniyar from the CyanoTRACKER team collect radiometry data using Cyanosense 2.0"
     },
+    
     {
-      "image":"https://cyanotracker.uga.edu/static/media/cyanosense_20_housing_design.78cbeecc080750d01e9b.png",
-      "smallCaption":"Small Caption-4",
-      "bigCaption":"Big Caption-4"
+      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/IMG_7315.jpg",
+      "smallCaption":"Surface Microcystin in Lake Erie, Aug 2024",
+      "bigCaption":"Surface suspension of potentially microcystin as observed from the research vessel during field sampling in Lake Erie"
+    },
+     
+    {
+      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/IMG_7352.jpg",
+      "smallCaption":"Field crew for Lake Erie, Aug 2024",
+      "bigCaption":"UGA crew and CSU crew pose for a group picture aboard CSU's research vessel "Gibraltor", as they start sampling the western basin of Lake Erie"
+    },
+     
+    {
+      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/collage.jpeg",
+      "smallCaption":"Lake Erie Collage, Aug 2024",
+      "bigCaption":"A collage encompassing various moments and stages of Lake Erie's water sampling and filtering at OSU's stone lab"
+    },
+
+
+         
+    {
+      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/IMG_8014.jpg",
+      "smallCaption":"Green Bay Field Sampling, July 2024",
+      "bigCaption":"Abhishek Kumar of CyanoTRACKER team collects radiometry data using Cyanosense 2.0 in Green Bay, Wisconsin "
+    },
+
+
+         
+    {
+      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/IMG_7971.jpg",
+      "smallCaption":"Lake Okeechobee Field Sampling, Aug 2024",
+      "bigCaption":"L-R: Nancee Uniyal volunteers for a CyanoTRACKER field trip and collects radiometry data using SVC's HR-1024i spectrophotometer while Chintan Maniyar holds the calibration panel steady"
+    },
+
+
+         
+    {
+      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/IMG_7648_jpg.jpg",
+      "smallCaption":"Lake Utah Field Sampling, Aug 2024",
+      "bigCaption":"Two curious ducks join CyanoTRACKER's field sampling in Lake Utah"
+    },
+
+
+    
+
+         
+    {
+      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/IMG_8854.jpg",
+      "smallCaption":"Filtering at Lake Utah, Aug 2024",
+      "bigCaption":"Isabella Fiorentino of CyanoTRACKER team comes up with an ingenious makeshift setup to successfully conduct vacuum aspirated water filtering in a hotel room, showcasing her creative scientific acumen"
+    },
+
+
+  
+         
+    {
+      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/1729298536768.jpg",
+      "smallCaption":"Lake Pontchartrain Collage, Oct 2024",
+      "bigCaption":"A collage encompassing various moments and stages of Lake Erie's water sampling and filtering at the University of New Orleans"
+    },
+
+    
+         
+    {
+      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/1726118416977.jpg",
+      "smallCaption":"Lake Okeechobee Collage, Aug 2024",
+      "bigCaption":"A collage encompassing various moments and stages of Lake Okeechobee's water sampling and filtering at the Florida Atlantic University's Harbor Branch Oceanographic Institute "
+    },
+
+
+    
+         
+    {
+      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/1726341087889.jpg",
+      "smallCaption":"Lake Utah Collage, Aug 2024",
+      "bigCaption":"A collage encompassing various moments and stages of Lake Utah's water sampling and filtering in collaboration with Utah Department of Environmental Quality and Utah State"
+    },
+
+
+    
+         
+    {
+      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/1726016360291.jpg",
+      "smallCaption":"Lake Clear and San Luis Reservoir Collage, Aug 2024",
+      "bigCaption":"A collage encompassing various moments and stages of Lake Clear and San Luis Reservoir's water sampling and filtering in collaboration with California Department of Water Quality"
+
     }
+    
   ]
 }
