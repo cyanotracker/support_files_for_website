@@ -2,25 +2,28 @@
 {
   "cyano_map_gallery": [
     {
-      "image":"blob:https://outlookuga-my.sharepoint.com/5929b21d-e896-4784-a816-e9784ee94f9c"
+      "image":"blob:https://outlookuga-my.sharepoint.com/5929b21d-e896-4784-a816-e9784ee94f9c",
       "smallCaption":"NDCI Map showing CyanoHAB event in Lake Anderson, WA",
       "bigCaption":"NDCI Map showing CyanoHAB event in Lake Anderson, WA"
     },
+    
     {
       "image":"blob:https://outlookuga-my.sharepoint.com/1a6e4f8a-6d29-40f4-a153-6285306d6cc6",
       "smallCaption":"NDCI Map showing CyanoHAB event in Lake Champlain, VT",
       "bigCaption":"NDCI Map showing CyanoHAB event in Lake Champlain, VT"
     },
-     {
+    
+    {
       "image":"blob:https://outlookuga-my.sharepoint.com/a5e96af4-d640-4b96-bc83-f2a11cf2d9d1",
       "smallCaption":"NDCI Map showing CyanoHAB event in Lake Pyramid, CA",
       "bigCaption":"NDCI Map showing CyanoHAB event in Lake Pyramid, CA"
     },
 
-     {
+    {
       "image":"blob:https://outlookuga-my.sharepoint.com/80d6ecea-0c4a-4045-8a73-274a6fbbd365",
       "smallCaption":"NDCI Map showing CyanoHAB event in freshwater lakes of Wisconsin",
       "bigCaption":"NDCI Map showing CyanoHAB event in freshwater lakes of Wisconsin"
     }
+    
   ]
 }
