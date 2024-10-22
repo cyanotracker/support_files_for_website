@@ -23,6 +23,11 @@
       "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Cyano_Map_Images/Wisconsin%20Lakes_Sep_04_2024_Sentinel2_NDCI.jpg",
       "smallCaption":"NDCI Map showing CyanoHAB event in freshwater lakes of Wisconsin",
       "bigCaption":"NDCI Map showing CyanoHAB event in freshwater lakes of Wisconsin"
+    },
+       {
+      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Cyano_Map_Images/Anderson%20Lake_May_09_2024.jpg",
+      "smallCaption":"NDCI Map showing CyanoHAB event in Lake Anderson, WA",
+      "bigCaption":"NDCI Map showing CyanoHAB event in Lake Anderson, WA"
     }
     
   ]
