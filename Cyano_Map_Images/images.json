@@ -2,7 +2,7 @@
 {
   "cyano_map_gallery": [
     {
-      "image":"https://github.com/cyanotracker/support_files_for_website/blob/main/Cyano_Map_Images/Anderson%20Lake_May_09_2024.jpg",
+      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Cyano_Map_Images/Anderson%20Lake_May_09_2024.jpg",
       "smallCaption":"NDCI Map showing CyanoHAB event in Lake Anderson, WA",
       "bigCaption":"NDCI Map showing CyanoHAB event in Lake Anderson, WA"
     }
