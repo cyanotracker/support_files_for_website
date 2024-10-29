@@ -187,7 +187,15 @@
     "link": "https://docs.google.com/presentation/d/e/2PACX-1vRzNRdN3CaPqQWcqUMCaXBnOFrNhtOLpzJ7pbtXakcQAqR-ERdyg2l2GYhi8J8bpw/pub?start=false&loop=false&delayms=10000",
     "image":"https://ars.els-cdn.com/content/image/1-s2.0-S1568988321001906-gr5.jpg",
     "year":"2020"  
-  }, 
+  },
+ {   
+  "type":"media-highlights",
+  "caption":"US-Wide Field Campaign",
+  "link": "https://franklin.uga.edu/news/stories/2024/cyanotracker-partnering-algal-blooms-across-us",
+  "image":"https://franklin.uga.edu/sites/default/files/field/image/Cyano_CLE.jpg",
+  "year":"2024"
+
+},
 {   
   "type":"media-highlights",
   "caption":"Toxic Algae Detection",
