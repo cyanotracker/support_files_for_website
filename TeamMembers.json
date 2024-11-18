@@ -3,7 +3,7 @@
   {
     "role": "Project PI",
     "name": "Dr. Deepak R. Mishra",
-    "imgUrl": "https://raw.githubusercontent.com/cyanotracker/cyanotracker.github.io/main/src/assets/Deepak_Mishra.jpg",
+    "imgUrl": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Team_Member_Images/deepak_m.jpg",
     "linkedinUrl": "https://geography.uga.edu/directory/people/deepak-r-mishra",
     "description": "Dr. Deepak Mishra is a professor and the Associate Head of Geography at UGA, leading the Small Satellite Research Lab. He's an expert in remote sensing, applying his knowledge to studying water resources, wetlands, and environmental issues. Combining field-based and satellite techniques with AI, Dr. Mishra is at the forefront of using innovative technologies to understand our planet."
   },
@@ -12,37 +12,37 @@
     "members": [
       {
         "name": "Abhishek Kumar",
-        "imgUrl": "https://raw.githubusercontent.com/cyanotracker/cyanotracker.github.io/main/src/assets/Abhishek_Kumar.png",
+        "imgUrl": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Team_Member_Images/abhishek_k.png",
         "linkedinUrl": "https://www.linkedin.com/in/abhishek-kumar-49348b143/",
         "description": "Postdoctoral Associate"
       },
       {
         "name": "Chintan B. Maniyar",
-        "imgUrl": "https://raw.githubusercontent.com/cyanotracker/cyanotracker.github.io/refs/heads/main/src/assets/chintan_headshot_2.jpg",
+        "imgUrl": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Team_Member_Images/chintan_m.jpg",
         "linkedinUrl": "https://chintan2108.github.io/",
         "description": "PhD Student"
       },
       {
         "name": "Isabella Fiorentino",
-        "imgUrl": "https://raw.githubusercontent.com/cyanotracker/cyanotracker.github.io/main/src/assets/Isabella.jpg",
+        "imgUrl": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Team_Member_Images/isabella_f.jpg",
         "linkedinUrl": "https://www.linkedin.com/in/isabella-fiorentino-113049188/",
         "description": "MS Student"
       },
       {
         "name": "Keshav Raviprakash",
-        "imgUrl": "https://raw.githubusercontent.com/cyanotracker/cyanotracker.github.io/main/src/assets/Keshav.jpeg",
+        "imgUrl": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Team_Member_Images/keshav_r.jpeg",
         "linkedinUrl": "https://www.linkedin.com/in/keshav-raviprakash/",
         "description": "MS Student"
       },
       {
         "name": "Nathan Tesfayi",
-        "imgUrl": "https://raw.githubusercontent.com/cyanotracker/cyanotracker.github.io/refs/heads/main/src/assets/nathan_headshot.jpg",
+        "imgUrl": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Team_Member_Images/nathan_t.jpg",
         "linkedinUrl": "https://www.linkedin.com/in/nathan-tesfayi-914b10226/",
         "description": "MS Student"
       },
       {
         "name": "Ranganadh SrivilliBhutturu",
-        "imgUrl": "https://raw.githubusercontent.com/cyanotracker/cyanotracker.github.io/main/src/assets/Ranganadh.jpg",
+        "imgUrl": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Team_Member_Images/ranganadh_s.jpg",
         "linkedinUrl": "https://www.linkedin.com/in/ranganadhsrivilli/",
         "description": "Web Developer"
       }
