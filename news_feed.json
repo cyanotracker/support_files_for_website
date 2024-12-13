@@ -2,6 +2,27 @@
 {
   "newsfeed": [
     {
+      "date": "Dec 9, 2024",
+      "content": "We will be presenting a poster: \"Advancing Satellite Monitoring of Early-stage Cyanobacterial Harmful Algal Blooms using Inherent Optical Properties and Machine Learning\"",
+      "link": "https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1677947",
+      "conference": "American Geophysical Union (AGU) Annual Meeting 2024",
+      "location": "Washington DC"
+    },
+    {
+      "date": "Dec 13, 2024",
+      "content": "We will be presenting a poster: \"CyanoSense 2.0: Low-cost Wireless Sensor Network for Real-time Monitoring of Cyanobacterial Harmful Algal Blooms in Smaller Water Bodies\"",
+      "link": "https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1680519",
+      "conference": "American Geophysical Union (AGU) Annual Meeting 2024",
+      "location": "Washington DC"
+    },
+    {
+      "date": "Dec 13, 2024",
+      "content": "We will be presenting a poster: \"High-Frequency Monitoring of Cyanobacterial Harmful Algal Blooms in Large Inland Waters Using Geostationary Satellite Data\"",
+      "link": "https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1709415",
+      "conference": "American Geophysical Union (AGU) Annual Meeting 2024",
+      "location": "Washington DC"
+    },
+    {
       "date": "July 7-12, 2024",
       "content": "We will be presenting a paper: \"Enhancing CyanoHAB Monitoring Across Multi-Satellite Sensors: Combining Empirical Phycocyanin Algorithms using Machine Learning\"",
       "link": "https://www.2024.ieeeigarss.org/",
