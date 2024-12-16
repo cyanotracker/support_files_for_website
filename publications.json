@@ -115,6 +115,42 @@
       "image":"iee_2015.jpg"
     },
     {
+      "title": "High-Frequency Monitoring of Cyanobacterial Harmful Algal Blooms in Large Inland Waters Using Geostationary Satellite Data",
+      "authors": "Abhishek Kumar, Chintan B. Maniyar, Isabella Fiorentino, Deepak R. Mishra",
+      "journal": "AGU Annual Meeting, DC, USA. Dec 2024",
+      "year": "2024",
+      "type":"conference-presentations",
+      "link": "https://docs.google.com/presentation/d/e/2PACX-1vSzCVLqIBZ5qWJzG8cOyIIvB_FJ3R9Q_tm7PEcUH2-zNt0ZAyyHmbu-FzXAFgxwG6DZMCvOhJHJDoi1/pub?start=false&loop=false&delayms=3000",
+      "image":"https://pbs.twimg.com/media/Fe0DWVXUAAAieFG.jpg" # change
+    },
+    {
+      "title": "Cyanosense 2.0: Low-cost Wireless Sensor Network for Continuous & Real-time Monitoring of Cyanobacteria Harmful Algal Blooms in Freshwater Lakes",
+      "authors": "Chintan B. Maniyar, Keshav Raviprakash, Abhishek Kumar, Mark Sefarin, Deepak R. Mishra",
+      "journal": "AGU Annual Meeting, DC, USA. Dec 2024",
+      "year": "2024",
+      "type":"conference-presentations",
+      "link": "https://docs.google.com/presentation/d/e/2PACX-1vSgVLWw7YwfHgdnkXb0WBEAcl0UzWsQ6L9xHWubIlQ3sJ9UXt6V6QA_GvrWKL-wzi32gPzBDFseqjW-/pub?start=false&loop=false&delayms=3000",
+      "image":"https://pbs.twimg.com/media/Fe0DWVXUAAAieFG.jpg" # change
+    },
+    {
+      "title": "A Modular Machine Learning framework to remotely estimate Phycocyanin pigment concentration in Cyanobacterial Harmful Algal Blooms",
+      "authors": "Chintan B. Maniyar, Deepak R. Mishra, Ryan O'Shea, Abhishek Kumar, Nima Pahlevan",
+      "journal": "AGU Annual Meeting, DC, USA. Dec 2024",
+      "year": "2024",
+      "type":"conference-presentations",
+      "link": "https://docs.google.com/presentation/d/e/2PACX-1vSb4Ev1-KqdUCja-T4OnVnWEhBDi2oOyX_p-S7p77gwW2Q6SoNIn4mx9EPk0a6Utg/pub?start=false&loop=false&delayms=3000",
+      "image":"https://pbs.twimg.com/media/Fe0DWVXUAAAieFG.jpg" # change
+    },
+    {
+      "title": "Trends in Cyanobacteria Harmful Algal Blooms: A Remote Sensing Study of North Georgia Lakes",
+      "authors": "Isabella Fiorentino, Deepak R. Mishra, Marguerite Madden, Amber Ignatius",
+      "journal": "AGU Annual Meeting, DC, USA. Dec 2024",
+      "year": "2024",
+      "type":"conference-presentations",
+      "link": "https://docs.google.com/presentation/d/e/2PACX-1vRdar-QP07N4Jt5-v-Tz2L4b8Ts6z4SyICG6r-JdqYW8F8qjVPYoe-mkAjX_vBqwEgaz1MfK-M-O_rT/pub?start=false&loop=false&delayms=3000",
+      "image":"https://pbs.twimg.com/media/Fe0DWVXUAAAieFG.jpg" # change
+    },
+    {
       "title": "Improving Phycocyanin Estimation for Cyanobacterial Harmful Algal Blooms from Remote Sensing Reflectance using Optical Inversion and Ensemble Machine Learning",
       "authors": "Chintan B. Maniyar, Deepak R. Mishra, Gengchen Mai",
       "journal": "IEEE IGARSS, Athens, Greece. July 2024",
