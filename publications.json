@@ -121,7 +121,7 @@
       "year": "2024",
       "type":"conference-presentations",
       "link": "https://docs.google.com/presentation/d/e/2PACX-1vSzCVLqIBZ5qWJzG8cOyIIvB_FJ3R9Q_tm7PEcUH2-zNt0ZAyyHmbu-FzXAFgxwG6DZMCvOhJHJDoi1/pub?start=false&loop=false&delayms=3000",
-      "image":"https://pbs.twimg.com/media/Fe0DWVXUAAAieFG.jpg" # change
+      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/misc_images/kumar_goes_agu_thumbnail.png"
     },
     {
       "title": "Cyanosense 2.0: Low-cost Wireless Sensor Network for Continuous & Real-time Monitoring of Cyanobacteria Harmful Algal Blooms in Freshwater Lakes",
@@ -130,7 +130,7 @@
       "year": "2024",
       "type":"conference-presentations",
       "link": "https://docs.google.com/presentation/d/e/2PACX-1vSgVLWw7YwfHgdnkXb0WBEAcl0UzWsQ6L9xHWubIlQ3sJ9UXt6V6QA_GvrWKL-wzi32gPzBDFseqjW-/pub?start=false&loop=false&delayms=3000",
-      "image":"https://pbs.twimg.com/media/Fe0DWVXUAAAieFG.jpg" # change
+      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/misc_images/maniyar_cs2-0_agu_thumbnail.png"
     },
     {
       "title": "A Modular Machine Learning framework to remotely estimate Phycocyanin pigment concentration in Cyanobacterial Harmful Algal Blooms",
@@ -139,7 +139,7 @@
       "year": "2024",
       "type":"conference-presentations",
       "link": "https://docs.google.com/presentation/d/e/2PACX-1vSb4Ev1-KqdUCja-T4OnVnWEhBDi2oOyX_p-S7p77gwW2Q6SoNIn4mx9EPk0a6Utg/pub?start=false&loop=false&delayms=3000",
-      "image":"https://pbs.twimg.com/media/Fe0DWVXUAAAieFG.jpg" # change
+      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/misc_images/maniyar_agu_pc_thumbnail.png"
     },
     {
       "title": "Trends in Cyanobacteria Harmful Algal Blooms: A Remote Sensing Study of North Georgia Lakes",
@@ -148,7 +148,7 @@
       "year": "2024",
       "type":"conference-presentations",
       "link": "https://docs.google.com/presentation/d/e/2PACX-1vRdar-QP07N4Jt5-v-Tz2L4b8Ts6z4SyICG6r-JdqYW8F8qjVPYoe-mkAjX_vBqwEgaz1MfK-M-O_rT/pub?start=false&loop=false&delayms=3000",
-      "image":"https://pbs.twimg.com/media/Fe0DWVXUAAAieFG.jpg" # change
+      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/misc_images/fiorentino_agu_thumbnail.png"
     },
     {
       "title": "Improving Phycocyanin Estimation for Cyanobacterial Harmful Algal Blooms from Remote Sensing Reflectance using Optical Inversion and Ensemble Machine Learning",
