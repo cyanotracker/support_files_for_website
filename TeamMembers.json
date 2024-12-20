@@ -5,6 +5,7 @@
     "name": "Dr. Deepak R. Mishra",
     "imgUrl": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Team_Member_Images/deepak_m.jpg",
     "linkedinUrl": "https://geography.uga.edu/directory/people/deepak-r-mishra",
+    "email":"dmishra@uga.edu",
     "description": "Dr. Deepak Mishra is a professor and the Associate Head of Geography at UGA, leading the Small Satellite Research Lab. He's an expert in remote sensing, applying his knowledge to studying water resources, wetlands, and environmental issues. Combining field-based and satellite techniques with AI, Dr. Mishra is at the forefront of using innovative technologies to understand our planet."
   },
   {
@@ -14,36 +15,42 @@
         "name": "Abhishek Kumar",
         "imgUrl": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Team_Member_Images/abhishek_k.png",
         "linkedinUrl": "https://www.linkedin.com/in/abhishek-kumar-49348b143/",
+        "email":"ak68883@uga.edu",
         "description": "Postdoctoral Associate"
       },
       {
         "name": "Chintan B. Maniyar",
         "imgUrl": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Team_Member_Images/chintan_m.jpg",
         "linkedinUrl": "https://chintan2108.github.io/",
+        "email":"chintanmaniyar@uga.edu",
         "description": "PhD Student"
       },
       {
         "name": "Isabella Fiorentino",
         "imgUrl": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Team_Member_Images/isabella_f.jpg",
         "linkedinUrl": "https://www.linkedin.com/in/isabella-fiorentino-113049188/",
+        "email":"isabella.fiorentino@uga.edu",
         "description": "MS Student"
       },
       {
         "name": "Keshav Raviprakash",
         "imgUrl": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Team_Member_Images/keshav_r.jpeg",
         "linkedinUrl": "https://www.linkedin.com/in/keshav-raviprakash/",
+        "email":"kr00436@uga.edu",
         "description": "MS Student"
       },
       {
         "name": "Nathan Tesfayi",
         "imgUrl": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Team_Member_Images/nathan_t.jpg",
         "linkedinUrl": "https://www.linkedin.com/in/nathan-tesfayi-914b10226/",
+        "email":"nathan.tesfayi@uga.edu",
         "description": "MS Student"
       },
       {
         "name": "Ranganadh SrivilliBhutturu",
         "imgUrl": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Team_Member_Images/ranganadh_s.jpg",
         "linkedinUrl": "https://www.linkedin.com/in/ranganadhsrivilli/",
+        "email":"ranganadh.srivillibhutturu@uga.edu",
         "description": "Web Developer"
       }
     ]
