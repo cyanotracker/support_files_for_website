@@ -1,1 +1,82 @@
+[
+  {
+    "id": 1,
+    "image": "https://idahopublichealth.com/wp-content/uploads/2024/04/cyanobacteria.jpg",
+    "title": "What are cyanobacteria?",
+    "caption": "Image credit: Idaho Public Health; link: https://idahopublichealth.com/cyanohabs/",
+    "content": "So, what are cyanobacteria? You may be more familiar with the terms 'toxic algae', 'blue-green algae,' 'pond scum,' or some of you may be eating a beneficial form known as Spirulina in your morning smoothies. Cyanobacteria are some of the oldest photosynthetic bacteria that exist across the entire spectrum from helpful symbiosis to dangerous toxicity. Generally, they exist in benign levels of concentration, but environmental and anthropogenic factors can cause the populations to boom and form harmful mats or blooms. These are what we term 'Cyano-HABs.'"
 
+  },
+  {
+    "id": 2,
+    "image": "https://www.mdpi.com/toxins/toxins-15-00289/article_deploy/html/images/toxins-15-00289-g001.png",
+    "title":"How do CyanoHABs appear?",
+
+    "caption": "Image credit - Chatterjee and More, 2023; doi: https://doi.org/10.3390/toxins15040289",
+    "content": "A CyanoHAB will often resemble the appearance like that of paint floating on the water surface. Although named 'blue-green' algae, some blooms have also been associated with red, yellow and brown color. Unfortunately, the dazzling and innocuous colors of CyanoHABs don't fully reveal just how toxic they can be. Sometimes, a full scale problem may not be visually noticeable, as the bacteria are suspended within the water column."
+  
+  },
+  {
+    "id":3,
+    "image":"https://mansfieldma.com/ImageRepository/Document?documentID=8838",
+    "title":"Where do CyanoHABs form?",
+    "caption":"Image credit: CDC; link: https://mansfieldma.com/733/Harmful-Algae-Blooms-in-freshwater-bodie",
+    "content":"Cyanobacteria harmful algal blooms usually form near the shoreline in eutrophic (low oxygen) freshwater systems, such as lakes and ponds. Look near low-flow regions where the current is minimal and obstructed by debris and other detritus material. Septic drainage and nutrient runoff have a high impact the growth of CyanoHABs, and therefore areas exposed to these events are more likely susceptible to bloom formation. Only rarely will these blooms explode in the middle of the water body at high concentrations, as in the case of Lake Eerie in 2003."
+
+    
+  },
+
+   {
+    "id":4,
+    "image":"https://chelsea.co.uk/wp-content/uploads/2022/08/blue-green-algae-scaled.jpg",
+    "title":"How does it get so bad?",
+    "caption":"Image credit: Chelsea Technologies, UK; link: https://chelsea.co.uk/what-is-blue-green-algae-and-why-does-it-matter/)",
+     "content":"While cyanobacteria have existed on Earth for more than 3.5 billion years, certain anthropogenic and environmental factors can trigger a cause for worry. The aquatic health concerns arise when conditions are far more favorable for cyanobacteria than for other aquatic organisms. Cyanobacteria have the ability to utilize nutrients from an incident such as a septic tank leak or a massive runoff from a commercial farm more readily than other aquatic organisms. This can allow a CyanoHAB to occur that is so dense that light cannot reach the plants beneath the surface. Furthermore, decay and respiration from dense blooms in the night can deprive the fauna within the water of dissolved oxygen. The toxicity in some CyanoHABs has been known to cause massive fish kills - bringing about both environmental and economic damage"
+
+
+    
+  },
+
+   {
+    "id":5,
+    "image":"https://www.lgsonic.com/wp-content/uploads/sampling-algae-water@2x.jpg",
+    "title":"Why does it matter to you?",
+    "caption":"Image credit: LG Sonic; link: https://www.lgsonic.com/cyanobacterial-blooms/",
+     "content":"Bloom formations are disconcerting as there is currently no known antidote for the toxins that some species, i.e. microcystin sp. produce. Livestock may drink from contaminated water and fall ill. Beloved family pets have died from swimming in contaminated lakes and ponds. For those partaking in water for recreation use, ingestion and contact with cyanobacteria contaminated water can cause a myriad of issues, from digestive and liver damage, to skin and eye irritation, and possibly death."
+
+    
+  },
+
+   {
+    "id":6,
+    "image":"https://www.usatoday.com/gcdn/presto/2021/07/14/USAT/b7768369-7a61-4e95-80e4-119aeb6278e4-GettyImages-1164651319.jpg",
+    "title":"What are we doing about it?",
+    "caption":"Image credits: USA Today; link: https://www.usatoday.com/story/travel/news/2021/07/15/cyanobacteria-blue-green-algae-blooms-closes-beaches/7962832002/",
+     "content":"We present an infrastructure for remote data acquisition using the spectral data from multiple deployable hyperspectral spectroradiometers spread across various water-bodies. Data would be transmitted at frequent intervals where real-time processing of spectral data would be done. Processing of spectral data would also involve running an accurate phycocyanin detection algorithm to predict cyanobacterial biomass. This cyber-infrastructure-based system will enable early detection and timely implementation of preemptive measures to reduce the frequency and severity of future CyanoHABs."
+
+
+    
+  },
+
+   {
+    "id":7,
+    "image":"https://images.squarespace-cdn.com/content/v1/62740a2f19d1191730024ee5/d10bf603-ef47-4db0-abdf-5dfedda2ff49/HABBackground.JPG",
+    "title":"What can one do about algal blooms, especially those caused by blue-green algae?",
+    "caption":"Image credits: SC HABNet; link: https://www.schabnet.org/",
+     "content":"If you suspect a blue-green bloom is present and are unable to provide information to our cyber infrastructure, be sure to keep people and pets away from the bloom and avoid activities that may lead to contact with the water. If you suspect health effects from having had direct contact with a blue-green algae bloom, contact your doctor (or in the event of pet contact, call your veterinarian) immediately."
+
+    
+  },
+     {
+    "id":8,
+    "image":"https://images.squarespace-cdn.com/content/v1/62740a2f19d1191730024ee5/d10bf603-ef47-4db0-abdf-5dfedda2ff49/HABBackground.JPG",
+    "title":"What can a lakeshore and near-lake homeowner do to help prevent algal blooms?",
+    "caption":"Image credits: SC HABNet; link: https://www.schabnet.org/",
+    "content":"Environmental Specialist Anthony Dodd from the Georgia Power Company has released some helpful tips for near-lake residents to prevent the onset of harmful algal blooms: \n 1)Don't use more lawn or garden fertilizer than recommended, and keep fertilizer out of storm drains and off driveways and sidewalks \n 2)Maintain a buffer to native plants around shorelines and streams (native plants don't require fertilizers and help filter water as well) \n 3)Properly care for and maintain household septic systems. \n 4)Do not allow livestock or pet waste into the lake. Don't feed waterfowl \n 5)Prevent soil erosion"
+
+    
+  },
+
+  
+  
+]
