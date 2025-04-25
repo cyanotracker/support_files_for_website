@@ -125,6 +125,15 @@
       "image":"iee_2015.jpg"
     },
     {
+      "title": "Low-cost Sensor to Strengthen CyanoHAB Monitoring with New Gen Ocean Color Satellites for Underrepresented Regions",
+      "authors": "Chintan B. Maniyar, Abhishek Kumar, Keshav Raviprakash, Mark Seferian, Isabella Fiorentino, Deepak R. Mishra",
+      "journal": "ASPRS Mid South Regional Conference, TN, USA. Apr 2025",
+      "year": "2025",
+      "type":"conference-presentations",
+      "link": "https://docs.google.com/presentation/d/e/2PACX-1vSgVLWw7YwfHgdnkXb0WBEAcl0UzWsQ6L9xHWubIlQ3sJ9UXt6V6QA_GvrWKL-wzi32gPzBDFseqjW-/pub?start=false&loop=false&delayms=3000",
+      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/misc_images/maniyar_cs2-0_asprs_thumbnail.jpg"
+    },
+    {
       "title": "High-Frequency Monitoring of Cyanobacterial Harmful Algal Blooms in Large Inland Waters Using Geostationary Satellite Data",
       "authors": "Abhishek Kumar, Chintan B. Maniyar, Isabella Fiorentino, Deepak R. Mishra",
       "journal": "AGU Annual Meeting, DC, USA. Dec 2024",
