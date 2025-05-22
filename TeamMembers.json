@@ -12,18 +12,18 @@
     "role": "Current Team Members",
     "members": [
       {
-        "name": "Abhishek Kumar",
+        "name": "Dr. Abhishek Kumar",
         "imgUrl": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Team_Member_Images/abhishek_k.png",
         "linkedinUrl": "https://www.linkedin.com/in/abhishek-kumar-49348b143/",
         "email":"ak68883@uga.edu",
-        "description": "Postdoctoral Associate"
+        "description": "Associate Research Scientist"
       },
       {
         "name": "Chintan B. Maniyar",
         "imgUrl": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Team_Member_Images/chintan_m.jpg",
         "linkedinUrl": "https://chintan2108.github.io/",
         "email":"chintanmaniyar@uga.edu",
-        "description": "PhD Student"
+        "description": "PhD Candidate"
       },
       {
         "name": "Isabella Fiorentino",
