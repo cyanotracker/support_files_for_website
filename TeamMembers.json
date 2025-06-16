@@ -47,12 +47,19 @@
         "description": "MS Student"
       },
       {
+        "name": "Madhu Sudhan Reddy Chencharapu",
+        "imgUrl": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Team_Member_Images/madhu_headshot.jpg",
+        "linkedinUrl": "https://www.linkedin.com/in/msrchencharapu/",
+        "email":"MadhuSudhanReddy.Chencharapu@uga.edu",
+        "description": "Web Developer"
+      },
+      {
         "name": "Ranganadh SrivilliBhutturu",
         "imgUrl": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Team_Member_Images/ranganadh_s.jpg",
         "linkedinUrl": "https://www.linkedin.com/in/ranganadhsrivilli/",
         "email":"ranganadh.srivillibhutturu@uga.edu",
-        "description": "Web Developer"
-      }
+        "description": "Software Volunteer"
+      },
     ]
   },
   {
