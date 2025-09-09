@@ -6,7 +6,7 @@
       "link": "https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1677947",
       "conference": "American Geophysical Union (AGU) Annual Meeting 2024",
       "location": "Washington DC",
-      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/main/news_images/sample.jpg"
+      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/main/news_images/AGU_Logo.png\n"
     },
     {
       "date": "Dec 13, 2024",
@@ -14,7 +14,7 @@
       "link": "https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1680519",
       "conference": "American Geophysical Union (AGU) Annual Meeting 2024",
       "location": "Washington DC",
-      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/main/news_images/sample1.jpg"
+      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/main/news_images/AGU_Logo.png\n"
     },
     {
       "date": "Dec 13, 2024",
@@ -22,7 +22,7 @@
       "link": "https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1709415",
       "conference": "American Geophysical Union (AGU) Annual Meeting 2024",
       "location": "Washington DC",
-      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/main/news_images/sample2"
+      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/main/news_images/AGU_Logo.png\n"
     },
     {
       "date": "July 7-12, 2024",
@@ -30,7 +30,7 @@
       "link": "https://www.2024.ieeeigarss.org/",
       "conference": "IEEE International Geoscience and Remote Sensing Symposium 2024",
       "location": "Athens, Greece",
-      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/main/news_images/sample3.jpg"
+      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/main/news_images/IEEE_Logo.png\n"
     },
     {
       "date": "May 6-10, 2024",
@@ -38,7 +38,7 @@
       "link": "https://cce.nasa.gov/biodiversity/meeting_2024/index.html",
       "conference": "NASA's Biodiversity and Ecological Forecasting Annual Meeting 2024",
       "location": "Silver Spring, MD",
-      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/main/news_images/nasa-biodiversity-2024.jpg"
+      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/main/news_images/Nasa_logo.png\n"
     }
   ]
 }
