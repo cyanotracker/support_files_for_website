@@ -56,7 +56,9 @@
     "volume": "111",
     "type":"journal",
     "link": "https://doi.org/10.1016/j.hal.2021.102145",
-    "image":"https://ars.els-cdn.com/content/image/1-s2.0-S1568988321X0011X-cov150h.gif"
+    "image":"https://ars.els-cdn.com/content/image/1-s2.0-S1568988321X0011X-cov150h.gif",
+   "pdf":"https://pdf.sciencedirectassets.com/272643/1-s2.0-S1568988321X0011X/1-s2.0-S156898832100175X/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIFFWiSarNbYe4ljptDi%2BskCGpD1RuhNK%2F%2Fq1AJldtTVqAiEA7c%2Ffrx1KCBYx3kOdqLoJZd%2FUbtmZZN0dAHVv%2B1tkHIIqswUIbhAFGgwwNTkwMDM1NDY4NjUiDMpp%2FUPldnpYDpOKdiqQBV%2FzzLRTYb9lmVAK%2BidP08v13%2FhWyUjTo%2FfUCG8osMop08UvTz1qQva%2Bc0OSnyqReRw7YA3USKzA4fcGFSzbGeVa8Bo94OCSmnBUGQE9raFbdkv%2Bg8Xb0DXe1k%2B7L6IDR2Xt1imvAznTqwNRb8Vi6rAliAeRRS8FTIIkgx2dlC4Lxow56mCNfQGEjZbkbVklloxmCbz%2FG0pE2vT1ZK2VbtLCcpMejC%2BJqohS5%2FHgRnNMcAG89VeG9LIW%2F9QgXSlS9xiu4b2cGPeh90dtKFxa%2FxZwYw%2Bulwa2AoXykSuOvzFOA3p%2FR8ZrWEJ9vkdrvgaElM3Q5xdH9asrcIGeYIdMSW3rlktBJiDnjklvRXjAu2luJroS7HOsFZCDsp%2Fn7UORE2bQ3DwhB8wyYOM%2Fcl7GbdOHMby7REGle12N4BV4rL6dY5krmKGJDqvHtn%2FHzIfleqUdWVERaNkQArJfsMhSsjj6mlKefC4C%2BHsAdG0k7pRr6xy63YcHXWt9FJJHYs6suVcdLlJijHi58DodKK47c2BjPx8NmjVJKDH%2Bf%2BlwwLWI1znid%2F3XoFpKEXZBut79kS7YnOHj4EfyQDnQS7NGWTRc%2Fyn140W8fV%2Bn36Z%2FW9Qci1lC30t2drabdHfc0SUnwXUdWW7ClYs0wfEBq5jN3%2F82f1JTvmHRGPRZ1KyiGo0DZQxXqTyaldkiubN0W0jGe98sQm%2FfaoS%2BKf4%2F68hZMpELA3TB01OLY42iAm2%2BI0U7SNgcfdnNTVLXmLzi6vBmRHgiSxHyvDwiMeNLNx%2BZoh%2FWPrnIJYzLyPsIGEamHaRGtsxZSTYK1MfP0Be0yrq3QvIyy9ElUYh%2FhtaEtLIV5eKvMmjyM8ggS06trZaLkWuyMO6f3sgGOrEBBatR2AwsxsgKG4SvEWUJRnqnQem3w9i8ESd7qF0kZF0dYRKZ1bok6y3ybIqGqziVtdyZHVoI8jemqdxJxT3LPtwSvr%2FRCqmHjqObcSl2sqpDeIjr5PlIpFnypHAJIh99KpLqnJqEyGuekVWsiNX1v%2ByFp1bC0IzpnVmkpWJqPyQIbWErhzkCKyLRS132sSOy4iwtC9AW9X%2BT81ivq6FFVuQBC8Kau29%2BC5oXkdB9N1B7&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251114T212433Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYVFDCRYVE%2F20251114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=fa0fd9de3cdb83f21cbffec9bf635168eab36efe66fbe399dac320be009f28d0&hash=bf4f5b3151cce498f78251228ca1a94b31b7da5cfe8d513f81c3dc7633b048f6&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S156898832100175X&tid=spdf-377a2def-7dcf-417b-8816-2f278e92257b&sid=7296ea29303b714ded294ef52d99393c3b4cgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=1b135c56005f56565a&rr=99e9938f3f7a2d1b&cc=us"
+   
   },
   {
       "title": "Continuous and synoptic assessment of Indian inland waters for harmful algae blooms.",
@@ -66,7 +68,8 @@
       "volume": "111",
       "type":"journal",
       "link": "https://doi.org/10.1016/j.hal.2021.102160",
-      "image":"https://ars.els-cdn.com/content/image/1-s2.0-S1568988321X0011X-cov150h.gif"
+      "image":"https://ars.els-cdn.com/content/image/1-s2.0-S1568988321X0011X-cov150h.gif",
+   "pdf":"https://pdf.sciencedirectassets.com/272643/1-s2.0-S1568988321X0011X/1-s2.0-S1568988321001906/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCCqQEnnQI2dx6e8kDfoI53Lm16eZPtnD8PLTxKOims3QIgA7%2BsRH%2BgjSOTKbIic2pyRO1UHUv%2FLheNjFxfE2SoeFQqsgUIbRAFGgwwNTkwMDM1NDY4NjUiDE85M4JcLdEkMYzJNyqPBUI4rBWIpa9ZInkydlqdJ%2FhTdy2XlX6p7sWrm1uL%2FOUvVMS9qd84hbF41yLHn2%2BKris8bMSGqnDHvZ7EG7khO0n6cGBrCHD8%2Fgg%2FdPE3CEjs2YskcREaERwEkYTZw6oGiBuj9%2FzwNvtoPxG4hRie6bhaHwWkLcJAaRCby%2FCEaBGPrtX5sUjK6FJ4jK10h7mUb1dpnhEcB8bJiyRCOJZeg6jJrQZMlCwRFR0e0SmPDXHCZh6wwUzHt0bwIIVJIrGMvGm5I0LV8RS7yopsuuOXSujSLaoLVJYbTlUZh40jqwrYgDERpllf0WZYX8HMHhJHOKyTbCIslDsrj0Inun31E%2BDOrcmorV%2Fov%2FL%2FXxfgm6bGxOO%2Fx3Qk6ecXkgQwrzB%2BtoMlbguGdLW3GPHkQhHa0bc%2BjX1qbHYUFetSTHvaxGkbGy4y%2FXuNqOXmPYuUioGJxcg5Lcc7tGHIH6IQMDRRl2j0q8Thd2on7b0UiBsmZUi64VHhxSIpWjwGzTmojysPE%2BehbAXFOtda2AWlIgOPt1AZcEm4%2FVGdthxUq7Y9wNG15XpoZM4bb0Q5SLFr9cUq%2Fxvhrla3Hcpz3kW8VrRW%2BjtRzyE6RY5%2F%2BFbJR9TV9wYuibWDvC0c1u8OlD7ycdIY5eXKaTZTRBBrBwj4wrjtTX3bjkd1sfCsDGHWGZdkygWElETd3DpufoAZoChJ1yNo9pdmrBmEDU%2BuUrUZ2ppUivaNrZieQjyT85NpIuBASDbfCSrs1lc456mGfWQGnMkN3JtMpWqIjDof0EoFB%2FfZTaV0X7sQUAeGWMDisJf9Ug0Z4ziE7YDCqJGszwGp%2F5hO%2FqaUJeEEEKXQIlTdz7pkZ7q28ZJRPV%2FtISETMw2loAcw1p3eyAY6sQGZVJI5qDerroLU7IpomcH2s6LrJM2Md4Uh8EV003Xtwu4h6mG3f0PNV0XxKbUMzMdQTi%2FZGuotbfza%2B5JDzRvr07j27WJLwvRG0thtG275AoUTpXdbUhXiwO%2FzwWyktuZCPgF612E%2FzrYFBajWhqLy83grRlk4aVY%2F9GxW77ON6UHCE4KBUpzFC55jrMwK1ZnnERRxNLVovSOncvDArXItwa4Rx2ctNsTX%2FuSZfWGyyLo%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251114T212501Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY3SITTI7L%2F20251114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=2885eace02478acb914dc64644c7274a38b6a537b7acafb54fde8e8213e961db&hash=3d566d17c0887b883b6727490e37757b18573e9f374565faa3924227b4993793&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1568988321001906&tid=spdf-d4086e95-ce97-4379-995e-1ebc00947620&sid=7296ea29303b714ded294ef52d99393c3b4cgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=1b135c56005f565151&rr=99e994390851058a&cc=us"
     },
     {
       "title": "CyanoTRACKER: A cloud-based integrated multi-platform architecture for global observation of cyanobacterial harmful algal blooms",
@@ -76,7 +79,8 @@
       "volume": "96",
       "type":"journal",
       "link": "https://doi.org/10.1016/j.hal.2020.101828",
-      "image":"https://ars.els-cdn.com/content/image/1-s2.0-S1568988320X00059-cov150h.gif"
+      "image":"https://ars.els-cdn.com/content/image/1-s2.0-S1568988320X00059-cov150h.gif",
+     "pdf":"https://pdf.sciencedirectassets.com/272643/1-s2.0-S1568988320X00059/1-s2.0-S1568988320301074/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCDYRpXMNvcZASMnNKwde2h9rayHmLucWK5K41%2F8SBP6QIhAKtbfUVRTu8oP%2FM1w5RifrB9emN4hD358HLqj%2BMzoUczKrMFCG0QBRoMMDU5MDAzNTQ2ODY1Igy5LZb4w7ULQQuiqPQqkAX068lpNUFKpUwpvLmGaPl%2FuSTOM8heMLRDi07aKlTr8DRrJVebnrP2QO7Oio%2F6kq8AemJZmut1FcrjPUfZBQ%2BPfKdUqE08OEGSi9L48lmPdhk87Hwn0NcKf6bfxupmSQCioXWQqekP2qSpncDeGXzfbJg3OdSzwocv4JaYqxvzu5MPSE7gqR1%2FWBLWee28j8u1NoG4DjWvZzFqjQIn%2BwkmrDdyYFOOD1UFKD%2B%2FhQRTA4OOP1hMkfkyTU5i2hQxKGkpDNCInGmwQnkfwXRBR%2BVhZN3N99CbQ8sId2WhJh6sdJ%2FXpMbM3If7XkpIVNUI0f7C6CW7tSX4mB0kjSwXOftvlAcIG7hcxS65jOJ4a955aYydNWRkqiyeBe7%2FuU%2F06NegOxRqNHVOY%2FrOdgG3shEHLvA8qE6gERB6NWUauH%2FBh1tvPpiNYF3YScsNGITFZ0RU5F6zVLboUlwM6QXxBRuMLboQPRHJBLqc8796giG3wpmedY59uo9X%2FN2wEZaE48u6iWtrE4fqdB02OsM%2B1l4zsojbYqr9D2lWTtil9GVD80fd6sUceMBsS9ZAhxKySba8lLReDBVWJQhh3bg8phR44pvWwhkcYdlVEIWWtfj8pZpViFEFahuBUYDEcPEgQiGmEDp9C6pLkkb4hfIxsaPwzb27giRwZyDrRTC4pwgavM6Q4E0eNnQo6U4bLa2VQpkqCR8SLRYVB3ex0Iv4tU2Cllut6If%2Frk7Jpgh55zA2P29iuGu5r%2Bs%2Flr3c9MMWI5jXaTR8TFTAPQ8yp86R5BF8dOqLlo4wKenJTH4XLsx0o9U4J2qlBcFI0FUjajtrei4QBxEBUOf5htCykHYJ3J8vCwllWAkzwN1fejqnAaS6JDDknd7IBjqwAVyKnd%2F3nIVp%2F72UgXe0xGCs3cWv3T6sw6JjJa0eUJ5paTIF2lk%2Fn0coWGJxb4eesyl7NKdYZZzNXpwIDJiLBlLlDi1KubFITEvY83Ad%2BNAwaQahPI%2BBMSFKW7eJt9Sm5Qbhkx8CZpJ2IKgIQNiZ7YozHTthQF%2BCdNTG6EhKwQlJgyp1U2kmtayHhSgPxmjG%2FPodZzNeRN57SCXWEezzoe01kSP7LuQ8hirbD8g7HbX%2F&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251114T212538Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY7TQQG3B6%2F20251114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d1279b9d8ed2aa5598c510101e7a8a92d9d3a62f7e8cf6419a2ea96d05f65f7b&hash=82804632683baf760d6c7f5d1de42084ddbde35af627f600a0e630d1a4b03a5f&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1568988320301074&tid=spdf-1bb37732-cdac-44a2-8a29-1fe993fde1cc&sid=7296ea29303b714ded294ef52d99393c3b4cgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=1b135c56005f565050&rr=99e995218e553992&cc=us"
     },
     {
       "title": "Landsat 8 virtual orange band for mapping cyanobacterial blooms.",
@@ -86,7 +90,8 @@
       "volume": "12.5",
       "type":"journal",
       "link": "https://doi.org/10.3390/rs12050868",
-      "image":"Remote_Sensing_2020.jpg"
+      "image":"Remote_Sensing_2020.jpg",
+     "pdf":"https://doi.org/10.3390/rs12050868"
     },
     {
       "title": "A multi-cloud cyber infrastructure for monitoring global proliferation of cyanobacterial harmful algal blooms",
@@ -95,7 +100,8 @@
       "year": "2018",
       "type":"conference-proceedings",
       "link": "https://doi.org/10.1109/IGARSS.2018.8519144",
-      "image":"https://cdn11.bigcommerce.com/s-eb528d73s5/images/stencil/1280x1280/products/55575/58457/041602__64828.1636347815.png?c=1"
+      "image":"https://cdn11.bigcommerce.com/s-eb528d73s5/images/stencil/1280x1280/products/55575/58457/041602__64828.1636347815.png?c=1",
+     "pdf":"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8519144"
     },
     {
       "title": "A novel cross-satellite based assessment of the spatio-temporal development of a cyanobacterial harmful algal bloom.",
@@ -105,7 +111,8 @@
       "volume": "66",
       "type":"journal",
       "link": "https://doi.org/10.1016/j.jag.2017.11.003",
-      "image":"https://ars.els-cdn.com/content/image/1-s2.0-S1569843223X00107-cov150h.gif"
+      "image":"https://ars.els-cdn.com/content/image/1-s2.0-S1569843223X00107-cov150h.gif",
+     "pdf":"https://pdf.sciencedirectassets.com/272637/1-s2.0-S0303243417X0010X/1-s2.0-S0303243417302544/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCoAYLpBbbsso56UC%2FGg3NI%2FtxFwIbuc%2BhW9ne5E%2BbKlwIhAKt8DK5hN%2FExaBInPL13gzZUGoRQmWCkOSsOnoLqG%2F7eKrMFCG4QBRoMMDU5MDAzNTQ2ODY1IgwqxauAW8S7ELHXzlEqkAWZ96JdO8W%2BZmAvCbZFd4Nd%2BHNxNtz9%2FhjOZggfQxN9YJZt2qxBdNixU%2FWovIZk6hhb9btsPWYVZvaTxkZuCHihcEhMjFTirGIoXRx%2FnmWj0ZCUHZN8Qa4tFGhDfECQsyHhXkds02wnmrKP7kPUfszRz4R2ejdwiTGQ%2BkU56Q%2F4CPAB%2Bbl6xAJ55hE1pMz2SPnnkN6SRsefX2edG9bO2uRC9jT33%2Fn4exQtH%2FqmVB0sDcVUXDoQll5AzqtTmeUbMe%2FB9SpKq1Oln%2B%2BF5lqHZaLHXpStZzaGLEq5qeZAcRNAKSinf8VTVcp%2FfXRBdHHIpW41wFk7dNy%2FUAHKq7lUHx%2FmGZZzkkbgzBAj3BcCnEtuTJLxRBHqj5nPo4OHwE%2BK1%2BZ0JbPjAQM%2F8eIS%2F5l3%2Fy0uz1LLcfvXpM6an7vu8bv7kPBCxfnIxSEJRE5NSy3utEDevuv5rLhKCN64rNf0zKWcBpvn07U0iCyj6QY5hGjxYgjv4txkbdZMaf4%2BM6rOHW05TSdo3U47IlDZmKRy1E3oXFFtEeAUFPDH99o5pmwxd3QfigVFXIXxFxgn1EJ9l5QhNOxxLlcD3mco0eOjNkqlPQb5ej%2BPhAgepMI0uwTp0NsEUojdHIOKfHYmARTvuas0BdpvEY2IO7xwu%2FG1r63yXsOGRgjKb7K1Efi7ZI1Qepx9zsoPWc1Q9Q6XgG9xJ%2FvMp5ZGsL7LCbmneRmcqJcvdIFf0J9DEwjvcbOr7x41Uk9jkTWDq%2BdmLcqKnJKYKjma%2BtUmbjEx8%2Bie0x7jcrsbn2DQApbNgj4qn5rACWYC%2BensvEvYhF4epHDIFMq45O6OqcU28oxPzp7jO6IRaQDeQvkP5sgyXFQFOym2fXh4kzDAod7IBjqwAS12ZDrPJhlpJ52ekC8CQshNqqmLuuLC0dqGzkDvHOn%2BAo3xYOWI32NvrEY7IWFJjVHdlcNH4zd%2F1rnunc0N7YHxUyxNKRF0A6rfwOGZGkT50lLHH%2BMuBm5oA%2FMCMBD7tQc%2BX5sFKAboMoQ5dmhjMtlT3cVjh89dUlwAcIDVrlXIcBp7VspxnPITQjYZKBJwpwrP5%2BpfxB0%2BFmV9XrdXBEt%2FccaLsEzcRaLqpqKygSox&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251114T212800Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYTQQANVG6%2F20251114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d83ce1451506ccef62a9990a40d4b78f5dc5406810ba228548363c713c943aa5&hash=1f3af9b9e15447cbe420a59b13612bda0c04e7311c66d740d5b7e18c8abf4fbb&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0303243417302544&tid=spdf-6b1d3d25-aca9-407d-9a57-68784ce12fb1&sid=7296ea29303b714ded294ef52d99393c3b4cgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=1b135c56005f565d5b&rr=99e9989c2f311741&cc=us"
     },
     {
       "title": "CyanoSense: a wireless remote sensor system using raspberry-pi and arduino with application to algal bloom.",
