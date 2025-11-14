@@ -121,7 +121,8 @@
       "year": "2017",
       "type":"conference-proceedings",
       "link": "https://doi.org/10.1109/AIMS.2017.19",
-      "image":"https://media.springernature.com/full/springer-static/cover-hires/book/978-3-319-94361-9"
+      "image":"https://media.springernature.com/full/springer-static/cover-hires/book/978-3-319-94361-9",
+     "pdf":"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8027273"
     },
     {
       "title": "A spatio-temporal mining approach for enhancing satellite data availability: a case study on blue green algae.",
@@ -130,7 +131,8 @@
       "year": "2017",
       "type":"conference-proceedings",
       "link": " https://doi.org/10.1109/BigDataCongress.2017.37",
-      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST1sQQphpMNAdMeJBJI16t2OvoY3sJLejVcjrSLXD1vA&s"
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST1sQQphpMNAdMeJBJI16t2OvoY3sJLejVcjrSLXD1vA&s",
+     "pdf":"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8029329"
     },
     {
       "title": "Data driven analysis of Algal Bloom activity for effective Water Sustainability.",
@@ -139,7 +141,8 @@
       "year": "2016",
       "type":"conference-proceedings",
       "link": " https://doi.org/10.1109/BDCloud-SocialCom-SustainCom.2016.69",
-      "image":"https://cdn11.bigcommerce.com/s-eb528d73s5/products/46224/images/49106/032182__17228.1636344031.386.513.png?c=1"
+      "image":"https://cdn11.bigcommerce.com/s-eb528d73s5/products/46224/images/49106/032182__17228.1636344031.386.513.png?c=1",
+     "pdf":"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7723723"
     },
     {
       "title": "Harnessing social media for environmental sustainability: a measurement study on harmful algal blooms.",
@@ -148,7 +151,8 @@
       "year": "2015",
       "type":"conference-proceedings",
       "link": "https://doi.org/10.1109/CIC.2015.31",
-      "image":"iee_2015.jpg"
+      "image":"iee_2015.jpg",
+     "pdf":"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7423080"
     },
     {
       "title": "Low-cost Sensor to Strengthen CyanoHAB Monitoring with New Gen Ocean Color Satellites for Underrepresented Regions",
@@ -157,7 +161,8 @@
       "year": "2025",
       "type":"conference-presentations",
       "link": "https://docs.google.com/presentation/d/e/2PACX-1vSgVLWw7YwfHgdnkXb0WBEAcl0UzWsQ6L9xHWubIlQ3sJ9UXt6V6QA_GvrWKL-wzi32gPzBDFseqjW-/pub?start=false&loop=false&delayms=3000",
-      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/misc_images/maniyar_cs2-0_asprs_thumbnail.jpg"
+      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/misc_images/maniyar_cs2-0_asprs_thumbnail.jpg",
+
     },
     {
       "title": "High-Frequency Monitoring of Cyanobacterial Harmful Algal Blooms in Large Inland Waters Using Geostationary Satellite Data",
