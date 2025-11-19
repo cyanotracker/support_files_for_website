@@ -1,45 +1,53 @@
 {
   "newsfeed": [
     {
-      "date": "Dec 9, 2024",
-      "content": "We will be presenting a poster: \"Advancing Satellite Monitoring of Early-stage Cyanobacterial Harmful Algal Blooms using Inherent Optical Properties and Machine Learning\"",
-      "link": "https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1677947",
-      "conference": "American Geophysical Union (AGU) Annual Meeting 2024",
-      "location": "Washington DC",
+      "date": "Dec 3, 2025",
+      "content": "We will be presenting a poster: \"First Phycocyanin Retrievals from NASA PACE: A Physics-Informed AI Approach for Cyanobacteria Biomass Estimation\"",
+      "link": "https://iocs.ioccg.org/",
+      "conference": "International Ocean Color Sciences (IOCS) Meeting 2025",
+      "location": "Darmstadt, Germany",
+      "image": "https://iocs.ioccg.org/wp-content/uploads/2024/11/logo-iocs-icon.png"
+    },
+    {
+      "date": "Dec 15, 2025",
+      "content": "We will be presenting a poster: \"Exploring Atmospheric Correction Methods for PACE‑Based HAB Retrieval\"",
+      "link": "https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1915247",
+      "conference": "American Geophysical Union (AGU) Annual Meeting 2025",
+      "location": "New Orleans, Louisiana",
       "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/main/news_images/AGU_Logo.png\n"
     },
     {
-      "date": "Dec 13, 2024",
-      "content": "We will be presenting a poster: \"CyanoSense 2.0: Low-cost Wireless Sensor Network for Real-time Monitoring of Cyanobacterial Harmful Algal Blooms in Smaller Water Bodies\"",
-      "link": "https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1680519",
-      "conference": "American Geophysical Union (AGU) Annual Meeting 2024",
-      "location": "Washington DC",
+      "date": "Dec 16, 2025",
+      "content": "We will be presenting a poster: \"US-Wide Assessment of a Physics-informed AI Framework for Cyanobacteria Biomass Estimation: First Results from NASA’s Hyperspectral PACE Mission\"",
+      "link": "https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1967797",
+      "conference": "American Geophysical Union (AGU) Annual Meeting 2025",
+      "location": "New Orleans, Louisiana",
       "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/main/news_images/AGU_Logo.png\n"
     },
     {
-      "date": "Dec 13, 2024",
-      "content": "We will be presenting a poster: \"High-Frequency Monitoring of Cyanobacterial Harmful Algal Blooms in Large Inland Waters Using Geostationary Satellite Data\"",
-      "link": "https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1709415",
-      "conference": "American Geophysical Union (AGU) Annual Meeting 2024",
-      "location": "Washington DC",
+      "date": "Dec 16, 2025",
+      "content": "We will be presenting a poster: \"Bridging Temporal Gaps: Cross-sensor Assessment of GOES-ABI, MODIS & VIIRS for Diurnal Monitoring of CyanoHABs\"",
+      "link": "https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1978546",
+      "conference": "American Geophysical Union (AGU) Annual Meeting 2025",
+      "location": "New Orleans, Louisiana",
       "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/main/news_images/AGU_Logo.png\n"
     },
     {
-      "date": "July 7-12, 2024",
-      "content": "We will be presenting a paper: \"Enhancing CyanoHAB Monitoring Across Multi-Satellite Sensors: Combining Empirical Phycocyanin Algorithms using Machine Learning\"",
-      "link": "https://www.2024.ieeeigarss.org/",
-      "conference": "IEEE International Geoscience and Remote Sensing Symposium 2024",
-      "location": "Athens, Greece",
-      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/main/news_images/IEEE_Logo.png\n"
+      "date": "Dec 17, 2025",
+      "content": "We will be presenting a paper: \"Adapting CyAN Framework to Hyperspectral Data: Enhanced CyanoHAB Detection and Monitoring Using NASA’s PACE Satellite\"",
+      "link": "https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1976151",
+      "conference": "American Geophysical Union (AGU) Annual Meeting 2025",
+      "location": "New Orleans, Louisiana",
+      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/main/news_images/AGU_Logo.png\n"
     },
     {
-      "date": "May 6-10, 2024",
-      "content": "We will be presenting a poster: \"Advancing Remote Sensing of CyanoHABs - Phycocyanin Estimation using Hyperspectral Inversion and Machine Learning\"",
-      "link": "https://cce.nasa.gov/biodiversity/meeting_2024/index.html",
-      "conference": "NASA's Biodiversity and Ecological Forecasting Annual Meeting 2024",
-      "location": "Silver Spring, MD",
-      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/main/news_images/Nasa_logo.png\n"
-    }
+      "date": "Mar 18, 2026",
+      "content": "We will be presenting a poster: \"An Integrated approach for Ground-to-Space Monitoring of Cyanobacterial Harmful Algal Blooms for US Freshwaters\"",
+      "link": "https://www.aag.org/events/aag2026/",
+      "conference": "American Association of Geographers (AAG) Annual Meeting 2026",
+      "location": "Sanfrancisco, California",
+      "image": "https://www.aag.org/wp-content/uploads/2022/01/AAG_logo_Dark-Blue_2022.svg"
+    },
   ]
 }
 
