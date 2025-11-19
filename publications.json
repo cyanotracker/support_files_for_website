@@ -7,7 +7,8 @@
     "volume": "3",
     "type":"journal",
     "link": "https://doi.org/10.1021/acsestwater.5c00301",
-    "image":"https://pubs.acs.org/cms/10.1021/aewcaa.ahead-of-print/asset/17b36048-6217-3604-8621-b3604886217b/largecover.jpg"
+    "image":"https://pubs.acs.org/cms/10.1021/aewcaa.ahead-of-print/asset/17b36048-6217-3604-8621-b3604886217b/largecover.jpg",
+    "pdf": "https://drive.google.com/file/d/1Mw3aFno_mNeaCteVucMSuTel7pzXRuNs/view?usp=drive_link"
  },
  {
     "title": "Remote sensing of cyanobacterial harmful algal blooms: Current trends and future directions (invited paper)",
@@ -17,7 +18,8 @@
     "volume": "4",
     "type":"journal",
     "link": "https://doi.org/10.1177/27539687251320671",
-    "image":"https://journals.sagepub.com/cms/asset/eead3ef0-7a0b-499b-85e1-f18089e07335/pega_4_1.largecover.png"
+    "image":"https://journals.sagepub.com/cms/asset/eead3ef0-7a0b-499b-85e1-f18089e07335/pega_4_1.largecover.png",
+    "pdf": "https://drive.google.com/file/d/1H4iKPRUKeEwKosk1cYPS5myOI4SWksUm/view?usp=drive_link"
  },
  {
     "title": "Risks for cyanobacterial harmful algal blooms due to land management and climate interactions",
@@ -27,7 +29,8 @@
     "volume": "703",
     "type":"journal",
     "link": "https://doi.org/10.1016/j.scitotenv.2019.134608",
-    "image":"https://ars.els-cdn.com/content/image/1-s2.0-S0048969719X00455-cov200h.gif"
+    "image":"https://ars.els-cdn.com/content/image/1-s2.0-S0048969719X00455-cov200h.gif",
+    "pdf": "https://drive.google.com/file/d/1UAmfmM628I9d5orriqsrLmtQOGKxWQ7m/view?usp=drive_link"
  },
  {
     "title": "Environmental drivers behind the exceptional increase in cyanobacterial blooms in Okavango Delta, Botswana",
@@ -37,7 +40,8 @@
     "volume": "137",
     "type":"journal",
     "link": "https://doi.org/10.1016/j.hal.2024.102677",
-    "image":"https://ars.els-cdn.com/content/image/1-s2.0-S1568988321X0011X-cov150h.gif"
+    "image":"https://ars.els-cdn.com/content/image/1-s2.0-S1568988321X0011X-cov150h.gif",
+    "pdf": "https://drive.google.com/file/d/1UkGeikhUYNQ7HEE4JECCb_XO6wOdmuCg/view?usp=drive_link"
   },
   {
     "title": "Exceptional landscape-wide cyanobacteria bloom in Okavango Delta, Botswana in 2020 coincided with a mass elephant die-off event",
@@ -47,7 +51,8 @@
     "volume": "111",
     "type":"journal",
     "link": "https://doi.org/10.1016/j.hal.2021.102145",
-    "image":"https://ars.els-cdn.com/content/image/1-s2.0-S1568988321X0011X-cov150h.gif"
+    "image":"https://ars.els-cdn.com/content/image/1-s2.0-S1568988321X0011X-cov150h.gif",
+    "pdf": "https://drive.google.com/file/d/1XopisrOF2_Wydy-OHZWS8dqu919uVhvW/view?usp=drive_link"
   },
   {
       "title": "Continuous and synoptic assessment of Indian inland waters for harmful algae blooms.",
@@ -57,7 +62,8 @@
       "volume": "111",
       "type":"journal",
       "link": "https://doi.org/10.1016/j.hal.2021.102160",
-      "image":"https://ars.els-cdn.com/content/image/1-s2.0-S1568988321X0011X-cov150h.gif"
+      "image":"https://ars.els-cdn.com/content/image/1-s2.0-S1568988321X0011X-cov150h.gif",
+      "pdf": "https://drive.google.com/file/d/1A1sjiVZP_l3WHvUHj9-GsXPDkB1XGMHE/view?usp=drive_link"
     },
     {
       "title": "CyanoTRACKER: A cloud-based integrated multi-platform architecture for global observation of cyanobacterial harmful algal blooms",
@@ -67,7 +73,8 @@
       "volume": "96",
       "type":"journal",
       "link": "https://doi.org/10.1016/j.hal.2020.101828",
-      "image":"https://ars.els-cdn.com/content/image/1-s2.0-S1568988320X00059-cov150h.gif"
+      "image":"https://ars.els-cdn.com/content/image/1-s2.0-S1568988320X00059-cov150h.gif",
+      "pdf": "https://drive.google.com/file/d/1SS9Lsv6mx7v_HkRuBgD8b9cmiyUJ9_m1/view?usp=drive_link"
     },
     {
       "title": "Landsat 8 virtual orange band for mapping cyanobacterial blooms.",
@@ -77,7 +84,8 @@
       "volume": "12.5",
       "type":"journal",
       "link": "https://doi.org/10.3390/rs12050868",
-      "image":"Remote_Sensing_2020.jpg"
+      "image":"Remote_Sensing_2020.jpg",
+      "pdf": "https://drive.google.com/file/d/1sHyO86kIofQ6XtvCFz2wh4oCl7dtTk9_/view?usp=drive_link"
     },
     {
       "title": "A multi-cloud cyber infrastructure for monitoring global proliferation of cyanobacterial harmful algal blooms",
@@ -86,7 +94,8 @@
       "year": "2018",
       "type":"conference-proceedings",
       "link": "https://doi.org/10.1109/IGARSS.2018.8519144",
-      "image":"https://cdn11.bigcommerce.com/s-eb528d73s5/images/stencil/1280x1280/products/55575/58457/041602__64828.1636347815.png?c=1"
+      "image":"https://cdn11.bigcommerce.com/s-eb528d73s5/images/stencil/1280x1280/products/55575/58457/041602__64828.1636347815.png?c=1",
+      "pdf": "https://drive.google.com/file/d/1BwxqIfZAAOzoS5l-2KscAViZDINDzDgw/view?usp=drive_link"
     },
     {
       "title": "A novel cross-satellite based assessment of the spatio-temporal development of a cyanobacterial harmful algal bloom.",
@@ -96,7 +105,8 @@
       "volume": "66",
       "type":"journal",
       "link": "https://doi.org/10.1016/j.jag.2017.11.003",
-      "image":"https://ars.els-cdn.com/content/image/1-s2.0-S1569843223X00107-cov150h.gif"
+      "image":"https://ars.els-cdn.com/content/image/1-s2.0-S1569843223X00107-cov150h.gif",
+      "pdf": "https://drive.google.com/file/d/1M04KaY4Bp3CRpiPCdpQt4xNwQl7Tx93p/view?usp=drive_link"
     },
     {
       "title": "CyanoSense: a wireless remote sensor system using raspberry-pi and arduino with application to algal bloom.",
@@ -105,7 +115,8 @@
       "year": "2017",
       "type":"conference-proceedings",
       "link": "https://doi.org/10.1109/AIMS.2017.19",
-      "image":"https://media.springernature.com/full/springer-static/cover-hires/book/978-3-319-94361-9"
+      "image":"https://media.springernature.com/full/springer-static/cover-hires/book/978-3-319-94361-9",
+      "pdf": "https://drive.google.com/file/d/1byCpzZg1AtxQbcnqV9hqYvpvJmeZ_ufr/view?usp=drive_link"
     },
     {
       "title": "A spatio-temporal mining approach for enhancing satellite data availability: a case study on blue green algae.",
@@ -114,7 +125,8 @@
       "year": "2017",
       "type":"conference-proceedings",
       "link": " https://doi.org/10.1109/BigDataCongress.2017.37",
-      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST1sQQphpMNAdMeJBJI16t2OvoY3sJLejVcjrSLXD1vA&s"
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST1sQQphpMNAdMeJBJI16t2OvoY3sJLejVcjrSLXD1vA&s",
+      "pdf": "https://drive.google.com/file/d/1EDMOJM6empPCdhp5AIDyrimfWYTZ9bzx/view?usp=drive_link"
     },
     {
       "title": "Data driven analysis of Algal Bloom activity for effective Water Sustainability.",
@@ -123,7 +135,8 @@
       "year": "2016",
       "type":"conference-proceedings",
       "link": " https://doi.org/10.1109/BDCloud-SocialCom-SustainCom.2016.69",
-      "image":"https://cdn11.bigcommerce.com/s-eb528d73s5/products/46224/images/49106/032182__17228.1636344031.386.513.png?c=1"
+      "image":"https://cdn11.bigcommerce.com/s-eb528d73s5/products/46224/images/49106/032182__17228.1636344031.386.513.png?c=1",
+      "pdf": "https://drive.google.com/file/d/1LrLIcHZZLXyZ4XcTmIT1nav7uzjNtHBv/view?usp=drive_link"
     },
     {
       "title": "Harnessing social media for environmental sustainability: a measurement study on harmful algal blooms.",
@@ -132,7 +145,8 @@
       "year": "2015",
       "type":"conference-proceedings",
       "link": "https://doi.org/10.1109/CIC.2015.31",
-      "image":"iee_2015.jpg"
+      "image":"iee_2015.jpg",
+      "pdf": "https://drive.google.com/file/d/1Klwhjz4M9x_M7kBYh_xY6QztFkDj5I6H/view?usp=drive_link"
     },
     {
       "title": "Low-cost Sensor to Strengthen CyanoHAB Monitoring with New Gen Ocean Color Satellites for Underrepresented Regions",
