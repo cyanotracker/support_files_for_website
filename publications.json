@@ -109,6 +109,17 @@
       "pdf": "https://drive.google.com/file/d/1M04KaY4Bp3CRpiPCdpQt4xNwQl7Tx93p/view?usp=drive_link"
     },
     {
+      "title": "A harmonized image processing workflow using Sentinel-2/MSI and Landsat-8/OLI for mapping water clarity in optically variable lake systems",
+      "authors": "Page, Benjamin P.; Olmanson, Leif; and Mishra, Deepak R.",
+      "journal": "Remote Sensing of Environment",
+      "year": "2019",
+      "volume": "231",
+      "type":"journal",
+      "link": "https://doi.org/10.1016/j.rse.2019.111284",
+      "image":"https://ars.els-cdn.com/content/image/1-s2.0-S0034425719X00103-cov200h.gif",
+      "pdf": "https://drive.google.com/file/d/1QL4wxe7lYixF-YQGgIwnQKfaCKGIFIlp/view?usp=drive_link"
+    },
+    {
       "title": "CyanoSense: a wireless remote sensor system using raspberry-pi and arduino with application to algal bloom.",
       "authors": "Boddula, Vinay, Lakshmish Ramaswamy, and Deepak Mishra",
       "journal": "2017 IEEE International Conference on AI & Mobile Services (AIMS). IEEE",
