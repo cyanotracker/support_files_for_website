@@ -33,13 +33,6 @@
         "description": "MS Student"
       },
       {
-        "name": "Keshav Raviprakash",
-        "imgUrl": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Team_Member_Images/keshav_r.jpeg",
-        "linkedinUrl": "https://www.linkedin.com/in/keshav-raviprakash/",
-        "email":"kr00436@uga.edu",
-        "description": "MS Student"
-      },
-      {
         "name": "Nathan Tesfayi",
         "imgUrl": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Team_Member_Images/nathan_t.jpg",
         "linkedinUrl": "https://www.linkedin.com/in/nathan-tesfayi-914b10226/",
@@ -75,7 +68,8 @@
       "Dr. Vinay Boddula",
       "Samual Weber",
       "Ben Page",
-      "Abhishek Cherukuru"
+      "Abhishek Cherukuru",
+      "Keshav Raviprakash"
     ]
   }
 ]
