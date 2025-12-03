@@ -1,136 +1,114 @@
 {
   "field_trip_gallery": [
     {
-      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/maniyar_bdec_2024.jpg",
-      "smallCaption":"NASA BDEC @ DC, May 2024",
-      "bigCaption":"Chintan B. Maniyar poses with his poster titled 'Improving Phycocyanin estimation for Cyanobacterial Harmful Algal Blooms from Rrs using optical inversion and ensemble machine learning' at the NASA Biodiversity and Ecological Conservation (BDEC) Meeting 2024."
-    },
-    
-    {
-      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/IMG_8014.jpg",
-      "smallCaption":"Green Bay Field Sampling, July 2024",
-      "bigCaption":"Abhishek Kumar of CyanoTRACKER team collects radiometry data using Cyanosense 2.0 in Green Bay, Wisconsin "
-    },
-    
-    {
-      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/IMG_7376.jpg",
-      "smallCaption":"Field data collection in Lake Erie, Aug 2024",
-      "bigCaption":"L-R: Isabella Fiorentino and Chintan Maniyar from the CyanoTRACKER team collect radiometry data using Cyanosense 2.0"
-    },
-    
-    {
-      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/IMG_7315.jpg",
-      "smallCaption":"Surface Microcystin in Lake Erie, Aug 2024",
-      "bigCaption":"Surface suspension of potentially microcystin as observed from the research vessel during field sampling in Lake Erie"
-    },
-     
-    {
-      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/IMG_7352.jpg",
-      "smallCaption":"Field crew for Lake Erie, Aug 2024",
-      "bigCaption":"UGA crew and CSU crew pose for a group picture aboard CSU's research vessel 'Gibraltor', as they start sampling the western basin of Lake Erie"
-    },
-     
-    {
-      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/collage.jpeg",
-      "smallCaption":"Lake Erie Collage, Aug 2024",
-      "bigCaption":"A collage encompassing various moments and stages of Lake Erie's water sampling and filtering at OSU's stone lab"
-    },
-         
-    {
-      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/IMG_7971.jpg",
-      "smallCaption":"Lake Okeechobee Field Sampling, Aug 2024",
-      "bigCaption":"L-R: Nancee Uniyal volunteers for a CyanoTRACKER field trip and collects radiometry data using SVC's HR-1024i spectrophotometer while Chintan Maniyar holds the calibration panel steady"
-    },
-
-    {
-      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/IMG_7648_jpg.jpg",
-      "smallCaption":"Lake Utah Field Sampling, Aug 2024",
-      "bigCaption":"Two curious ducks join CyanoTRACKER's field sampling in Lake Utah"
-    },
-         
-    {
-      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/IMG_8854.jpg",
-      "smallCaption":"Filtering at Lake Utah, Aug 2024",
-      "bigCaption":"Isabella Fiorentino of CyanoTRACKER team comes up with an ingenious makeshift setup to successfully conduct vacuum aspirated water filtering in a hotel room, showcasing her creative scientific acumen"
-    },
-    
-    {
-      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/1726118416977.jpg",
-      "smallCaption":"Lake Okeechobee Collage, Aug 2024",
-      "bigCaption":"A collage encompassing various moments and stages of Lake Okeechobee's water sampling and filtering at the Florida Atlantic University's Harbor Branch Oceanographic Institute "
-    },
-         
-    {
-      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/1726341087889.jpg",
-      "smallCaption":"Lake Utah Collage, Aug 2024",
-      "bigCaption":"A collage encompassing various moments and stages of Lake Utah's water sampling and filtering in collaboration with Utah Department of Environmental Quality and Utah State"
-    },
-         
-    {
-      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/1726016360291.jpg",
-      "smallCaption":"Lake Clear and San Luis Reservoir Collage, Sept 2024",
-      "bigCaption":"A collage encompassing various moments and stages of Lake Clear and San Luis Reservoir's water sampling and filtering in collaboration with California Department of Water Quality"
-
+      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/okeechobee_trip_2025.jpg",
+      "smallCaption": "Lake Okeechobee Collage, July 2025",
+      "bigCaption": "A collage encompassing various moments and stages of Lake Okeechobee's water sampling and filtering at the Florida Atlantic University's Harbor Branch Oceanographic Institute "
     },
     {
-      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/1729298536768.jpg",
-      "smallCaption":"Lake Pontchartrain Collage, Oct 2024",
-      "bigCaption":"A collage encompassing various moments and stages of Lake Erie's water sampling and filtering at the University of New Orleans"
+      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/maniyar_bdec_2025.jpg",
+      "smallCaption": "BDEC @ DC, May 2025",
+      "bigCaption": "Chintan B. Maniyar poses with his poster titled 'Cyanosense 2.0: Low-cost wireless sensor network for continuous and real-time monitoring of Cyanobacterial Harmful Algal blooms in Freshwater Lakes' at the NASA Biodiversity and Ecological Conservation (BDEC) Annual Meeting 2025 in Washington DC."
     },
-
     {
-      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/kumar_agu-2_2024.jpg",
-      "smallCaption":"AGU @ DC, Dec 2024",
-      "bigCaption":"Abhishek Kumar poses with the AGU sign, at the AGU Annual Meeting 2024 in Washington DC."
+      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/maniyar_ornl_2025.jpg",
+      "smallCaption": "ASPRS @ ORNL, Apr 2025",
+      "bigCaption": "Chintan B. Maniyar delivers his talk titled 'Low-cost sensor to strengthen CyanoHAB monitoring with new gen ocean color satellites for underrepresented regions' at the ASPRS Mid South Conference in Oak Ridge, Tennessee."
     },
-
     {
-      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/kumar_agu_2024.jpg",
-      "smallCaption":"AGU @ DC, Dec 2024",
-      "bigCaption":"Abhishek Kumar poses with his oral panel, 'H51E - Monitoring, Prediction, and Mitigation of Harmful Algal Blooms (HABs) I Oral', at the AGU Annual Meeting 2024 in Washington DC."
+      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/maniyar_agu-2_2024.jpg",
+      "smallCaption": "AGU @ DC, Dec 2024",
+      "bigCaption": "Chintan B. Maniyar poses with his poster titled 'A Modular Machine Learning Framework to remotely estimate Phycocyanin concentration in Cyanobacterial Harmful Algal Blooms' at the AGU Annual Meeting 2024 in Washington DC."
     },
-
     {
-      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/kumar_talk-agu-1_2024.jpg",
-      "smallCaption":"AGU @ DC, Dec 2024",
-      "bigCaption":"Abhishek Kumar delivers his oral talk titled 'High-Frequency Monitoring of Cyanobacterial Harmful Algal Blooms in Large Inland Waters Using Geostationary Satellite Data' at the AGU Annual Meeting 2024 in Washington DC."
+      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/maniyar_agu_2024.jpg",
+      "smallCaption": "AGU @ DC, Dec 2024",
+      "bigCaption": "Chintan B. Maniyar gives a walktrough of his poster titled 'Cyanosense 2.0: Low-cost wireless sensor network for continuous and real-time monitoring of Cyanobacterial Harmful Algal blooms in Freshwater Lakes' at the AGU Annual Meeting 2024 in Washington DC."
     },
-
     {
-      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/team_meal_agu-2024.jpg",
-      "smallCaption":"AGU @ DC, Dec 2024",
-      "bigCaption":"The CyanoTRACKER Team and the Mishra Lab enjoy a meal at the AGU Annual Meeting 2024 in Washington DC."
+      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/team_meal_agu-2024.jpg",
+      "smallCaption": "AGU @ DC, Dec 2024",
+      "bigCaption": "The CyanoTRACKER Team and the Mishra Lab enjoy a meal at the AGU Annual Meeting 2024 in Washington DC."
     },
-
     {
-      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/maniyar_agu_2024.jpg",
-      "smallCaption":"AGU @ DC, Dec 2024",
-      "bigCaption":"Chintan B. Maniyar gives a walktrough of his poster titled 'Cyanosense 2.0: Low-cost wireless sensor network for continuous and real-time monitoring of Cyanobacterial Harmful Algal blooms in Freshwater Lakes' at the AGU Annual Meeting 2024 in Washington DC."
+      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/kumar_talk-agu-1_2024.jpg",
+      "smallCaption": "AGU @ DC, Dec 2024",
+      "bigCaption": "Abhishek Kumar delivers his oral talk titled 'High-Frequency Monitoring of Cyanobacterial Harmful Algal Blooms in Large Inland Waters Using Geostationary Satellite Data' at the AGU Annual Meeting 2024 in Washington DC."
     },
-
     {
-      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/maniyar_agu-2_2024.jpg",
-      "smallCaption":"AGU @ DC, Dec 2024",
-      "bigCaption":"Chintan B. Maniyar poses with his poster titled 'A Modular Machine Learning Framework to remotely estimate Phycocyanin concentration in Cyanobacterial Harmful Algal Blooms' at the AGU Annual Meeting 2024 in Washington DC."
+      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/kumar_agu_2024.jpg",
+      "smallCaption": "AGU @ DC, Dec 2024",
+      "bigCaption": "Abhishek Kumar poses with his oral panel, 'H51E - Monitoring, Prediction, and Mitigation of Harmful Algal Blooms (HABs) I Oral', at the AGU Annual Meeting 2024 in Washington DC."
     },
-
     {
-      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/maniyar_ornl_2025.jpg",
-      "smallCaption":"ASPRS @ ORNL, Apr 2025",
-      "bigCaption":"Chintan B. Maniyar delivers his talk titled 'Low-cost sensor to strengthen CyanoHAB monitoring with new gen ocean color satellites for underrepresented regions' at the ASPRS Mid South Conference in Oak Ridge, Tennessee."
+      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/kumar_agu-2_2024.jpg",
+      "smallCaption": "AGU @ DC, Dec 2024",
+      "bigCaption": "Abhishek Kumar poses with the AGU sign, at the AGU Annual Meeting 2024 in Washington DC."
     },
-
     {
-      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/maniyar_bdec_2025.jpg",
-      "smallCaption":"BDEC @ DC, May 2025",
-      "bigCaption":"Chintan B. Maniyar poses with his poster titled 'Cyanosense 2.0: Low-cost wireless sensor network for continuous and real-time monitoring of Cyanobacterial Harmful Algal blooms in Freshwater Lakes' at the NASA Biodiversity and Ecological Conservation (BDEC) Annual Meeting 2025 in Washington DC."
-    }, 
-
+      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/1729298536768.jpg",
+      "smallCaption": "Lake Pontchartrain Collage, Oct 2024",
+      "bigCaption": "A collage encompassing various moments and stages of Lake Erie's water sampling and filtering at the University of New Orleans"
+    },
     {
-      "image":"https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/okeechobee_trip_2025.jpg",
-      "smallCaption":"Lake Okeechobee Collage, July 2025",
-      "bigCaption":"A collage encompassing various moments and stages of Lake Okeechobee's water sampling and filtering at the Florida Atlantic University's Harbor Branch Oceanographic Institute "
+      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/1726016360291.jpg",
+      "smallCaption": "Lake Clear and San Luis Reservoir Collage, Sept 2024",
+      "bigCaption": "A collage encompassing various moments and stages of Lake Clear and San Luis Reservoir's water sampling and filtering in collaboration with California Department of Water Quality"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/1726341087889.jpg",
+      "smallCaption": "Lake Utah Collage, Aug 2024",
+      "bigCaption": "A collage encompassing various moments and stages of Lake Utah's water sampling and filtering in collaboration with Utah Department of Environmental Quality and Utah State"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/1726118416977.jpg",
+      "smallCaption": "Lake Okeechobee Collage, Aug 2024",
+      "bigCaption": "A collage encompassing various moments and stages of Lake Okeechobee's water sampling and filtering at the Florida Atlantic University's Harbor Branch Oceanographic Institute "
+    },
+    {
+      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/IMG_8854.jpg",
+      "smallCaption": "Filtering at Lake Utah, Aug 2024",
+      "bigCaption": "Isabella Fiorentino of CyanoTRACKER team comes up with an ingenious makeshift setup to successfully conduct vacuum aspirated water filtering in a hotel room, showcasing her creative scientific acumen"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/IMG_7648_jpg.jpg",
+      "smallCaption": "Lake Utah Field Sampling, Aug 2024",
+      "bigCaption": "Two curious ducks join CyanoTRACKER's field sampling in Lake Utah"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/IMG_7971.jpg",
+      "smallCaption": "Lake Okeechobee Field Sampling, Aug 2024",
+      "bigCaption": "L-R: Nancee Uniyal volunteers for a CyanoTRACKER field trip and collects radiometry data using SVC's HR-1024i spectrophotometer while Chintan Maniyar holds the calibration panel steady"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/collage.jpeg",
+      "smallCaption": "Lake Erie Collage, Aug 2024",
+      "bigCaption": "A collage encompassing various moments and stages of Lake Erie's water sampling and filtering at OSU's stone lab"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/IMG_7352.jpg",
+      "smallCaption": "Field crew for Lake Erie, Aug 2024",
+      "bigCaption": "UGA crew and CSU crew pose for a group picture aboard CSU's research vessel 'Gibraltor', as they start sampling the western basin of Lake Erie"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/IMG_7315.jpg",
+      "smallCaption": "Surface Microcystin in Lake Erie, Aug 2024",
+      "bigCaption": "Surface suspension of potentially microcystin as observed from the research vessel during field sampling in Lake Erie"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/IMG_7376.jpg",
+      "smallCaption": "Field data collection in Lake Erie, Aug 2024",
+      "bigCaption": "L-R: Isabella Fiorentino and Chintan Maniyar from the CyanoTRACKER team collect radiometry data using Cyanosense 2.0"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/IMG_8014.jpg",
+      "smallCaption": "Green Bay Field Sampling, July 2024",
+      "bigCaption": "Abhishek Kumar of CyanoTRACKER team collects radiometry data using Cyanosense 2.0 in Green Bay, Wisconsin "
+    },
+    {
+      "image": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Field_Trip_Images/maniyar_bdec_2024.jpg",
+      "smallCaption": "NASA BDEC @ DC, May 2024",
+      "bigCaption": "Chintan B. Maniyar poses with his poster titled 'Improving Phycocyanin estimation for Cyanobacterial Harmful Algal Blooms from Rrs using optical inversion and ensemble machine learning' at the NASA Biodiversity and Ecological Conservation (BDEC) Meeting 2024."
     }
-    
   ]
 }
