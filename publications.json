@@ -1,5 +1,17 @@
 [
  {
+    "title": "Advancing CyanoHAB monitoring with hyperspectral data from NASA PACE: First results and validation",
+    "authors": "Kumar, Abhishek and Maniyar, Chintan B. and Tesfayi, Nathan and Grunert, Brice and Fiorentino, Isabella and Herweck, Kendra and Hyland, Emily and Liu, Bingqing and Bartelme, Bradley and Mishra, Deepak R.",
+    "journal": "International Journal of Applied Earth Observation and Geoinformation",
+    "year": "2026",
+    "volume": "146",
+    "type":"journal",
+    "link": "https://doi.org/10.1016/j.jag.2025.105032",
+    "image":"https://ars.els-cdn.com/content/image/1-s2.0-S1569843223X00107-cov150h.gif",
+    "pdf": "https://drive.google.com/file/d/1grgGnCx1Zdz6KpLIXYRjIIedYpUk_EW1/view?usp=drive_link"
+ },
+ 
+ {
     "title": "Low-Cost System to Support and Expand Cyanobacterial Harmful Algal Bloom Monitoring with New-Generation Ocean Color Satellites",
     "authors": "Maniyar, Chintan B. and Raviprakash, Keshav and Kumar, Abhishek and Seferian, Mark A. and Fiorentino, Isabella and Mishra, Deepak R.",
     "journal": "ACS Environmental Science and Technology, Water",
