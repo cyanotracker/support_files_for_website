@@ -1,7 +1,7 @@
 
 [
   {
-    "role": "Project PI",
+    "role": "Lab Director",
     "name": "Dr. Deepak R. Mishra",
     "imgUrl": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Team_Member_Images/deepak_m.jpg",
     "linkedinUrl": "https://geography.uga.edu/directory/people/deepak-r-mishra",
@@ -16,7 +16,7 @@
         "imgUrl": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Team_Member_Images/abhishek_k.png",
         "linkedinUrl": "https://www.linkedin.com/in/abhishek-kumar-49348b143/",
         "email":"ak68883@uga.edu",
-        "description": "Associate Research Scientist"
+        "description": "PI & Associate Research Scientist"
       },
       {
         "name": "Chintan B. Maniyar",
