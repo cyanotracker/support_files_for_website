@@ -44,14 +44,14 @@
         "imgUrl": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Team_Member_Images/madhu_headshot.jpg",
         "linkedinUrl": "https://www.linkedin.com/in/msrchencharapu/",
         "email":"MadhuSudhanReddy.Chencharapu@uga.edu",
-        "description": "Web Developer"
+        "description": "Graduate Researcher"
       },
       {
-        "name": "Ranganadh SrivilliBhutturu",
-        "imgUrl": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Team_Member_Images/ranganadh_s.jpg",
-        "linkedinUrl": "https://www.linkedin.com/in/ranganadhsrivilli/",
-        "email":"ranganadh.srivillibhutturu@uga.edu",
-        "description": "Software Volunteer"
+        "name": "Deep Sahu",
+        "imgUrl": "https://raw.githubusercontent.com/cyanotracker/support_files_for_website/refs/heads/main/Team_Member_Images/deep_s.jpeg",
+        "linkedinUrl": "https://deepsahu.vercel.app/",
+        "email":"Deep.Sahu@uga.edu",
+        "description": "Undergrad Researcher"
       }
     ]
   },
@@ -69,7 +69,8 @@
       "Samual Weber",
       "Ben Page",
       "Abhishek Cherukuru",
-      "Keshav Raviprakash"
+      "Keshav Raviprakash",
+      "Ranganadh SrivilliBhutturu"
     ]
   }
 ]
